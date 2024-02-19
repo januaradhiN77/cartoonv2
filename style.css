@@ -29,7 +29,7 @@ html {
                display: flex;
                border-bottom: 1px #000000A3 solid;
                z-index: 9999;
-               background: #353535;
+               background: #171C28;
         }
         .header_logo{
                 display: flex;

@@ -1,0 +1,128 @@
+* {
+
+  margin: 0;
+
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+  user-select: none;
+}
+body,
+
+html {
+
+  background: #090909;
+}
+
+@media (max-width: 810px){
+        nav {
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #353535;
+  box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  height: 7vh;
+  z-index: 1000;
+
+}
+.menu{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+}
+.banner-img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 55px;
+}
+.banner-img img{
+        width: 100%;
+}
+.movies-container{
+
+
+
+  margin: 0 0px 0 0px;
+  margin-top: 30px;
+  height: 300px;
+  background: #0000009E;
+  border-radius: 20px;
+  width: 100%;
+  margin-left: 0px;
+
+}
+.movies{
+
+  display: flex;
+  margin-top: 15px;
+  overflow: auto;
+  flex-direction: row;
+  scroll-behavior: smooth;
+  padding-left: 0px;
+}
+ .movies-box{
+  margin: auto;
+  width:140px;
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  margin-right: 7px;
+  padding: 0 -50px;
+  margin-left: 7px; 
+  
+}
+.movies-box img{
+  width: 140px;
+  margin-top: 0px;
+  height: 210px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+.header-movies-text{
+        color: white;
+        font-size: 20px;
+        margin-left: 7px;
+}
+.header-movies-text h1{
+        font-family: 'Zen Maru Gothic';
+}
+.image-overlay{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    border-radius: 10px;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+}
+.judul-movies{
+        color: white;
+        z-index: 9999;
+        display: flex;
+        flex-direction: column;
+        align-items: left;
+        width: 100%;
+        justify-content: left;
+        margin-top: 8px;
+
+}
+.judul-movies h1{
+        font-family: 'Barlow Condensed';
+        font-weight: 500;
+        font-size: 17px;
+}
+}

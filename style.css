@@ -90,6 +90,7 @@ html {
   margin-left: 7px; 
   
 }
+
 .movies-box img{
   width: 140px;
   margin-top: 0px;
@@ -133,5 +134,32 @@ html {
         -webkit-box-orient: vertical;
         -webkit-line-clamp: 1;
         overflow: hidden;
+}
+.skeleton {
+
+    position: relative;
+
+}
+.skeleton::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    border-radius: 10px;
+    background: linear-gradient(to right, #090909, rgba(205, 205, 205, 1), #090909);
+  animation: skeleton 1.5s linear infinite;
+    background-size: 200%;
+    
+}
+@keyframes skeleton {
+    0% {
+        background-position: 100% 0;
+    }
+    100% {
+        background-position: -100% 0;
+    }
 }
 }

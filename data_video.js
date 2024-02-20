@@ -55,7 +55,20 @@
 
                 
             },
+"mashleseason2": {
+                "title": "Mashle Season 2",
+                "terjemah": "Episode 1",
+                "rating": "7.6",
+                "studio": "A-1 Pictures",
+                "rilis": "6 Januari 2024",
+                "gendre1": "Action",
+                "gendre2": "Comedy",
+                "gendre3": "Fantasy",
+                "description": "menceritakan seorang anak bernama Mash Burnedead yang hidup di dunia yang penuh dengan sihir.<br><br>Dalam dunia sihir tersebut, seorang yang tidak memiliki sihir akan dianggap sebagai aib dan harus diasingkan.<br><br>Tokoh utama Mash Burnedead adalah salah satu manusia yang hidup dengan tidak memiliki sihir apapun.<br><br>Dibuang oleh keluarganya dan ditemukan seorang kakek, kemudia diadopsi dan hidup ditengah hutan.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2wCYBc9vA_7Ozookt3gIpnOqclHMAXrLI6GO4AaE6Pq-RIsX2y3j7NKR&s=10"
 
+                
+            },
 
 
 

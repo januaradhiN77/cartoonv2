@@ -25,7 +25,12 @@ const data = {
 "videoUrl": "https://acefile.co/player/19320220"
             },
 
-
+"mashleseason2": {
+"title": "Mashle Season 2",
+"episode": "Episode 1",
+"description": "menceritakan seorang anak bernama Mash Burnedead yang hidup di dunia yang penuh dengan sihir.<br><br>Dalam dunia sihir tersebut, seorang yang tidak memiliki sihir akan dianggap sebagai aib dan harus diasingkan.<br><br>Tokoh utama Mash Burnedead adalah salah satu manusia yang hidup dengan tidak memiliki sihir apapun.<br><br>Dibuang oleh keluarganya dan ditemukan seorang kakek, kemudia diadopsi dan hidup ditengah hutan.",
+"videoUrl": "https://acefile.co/player/102743749"
+            },
 
 
 

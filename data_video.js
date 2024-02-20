@@ -32,7 +32,7 @@
                 "title": "Upin & Ipin Keris Siamang Tunggal",
             "terjemah": "Upin & Ipin",
                 "rating": "7.3",
-                "gendre1": "Komedi",
+                "gendre1": "Comedy",
                 "gendre2": "Animasi",
                 "gendre3": "Adventure",
                 "studio": "Les' Copaque Production",

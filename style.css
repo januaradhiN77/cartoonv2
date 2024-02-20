@@ -388,6 +388,7 @@ html {
         .sinopsis{
                 margin-top: 40px;
                 
+                
         }
         .sinopsis span{
                 font-family: 'Inter';
@@ -429,5 +430,42 @@ html {
         font-size: 25px;
 
         font-weight: 700;
+}
+.video-controller{
+       display: flex;
+       position: fixed;
+       width: 100%;
+       flex-direction: column;
+       top: 0;
+       background: #090909;
+       left: 0;
+       margin-top: 57px;
+}
+
+.judul-v-fr{
+        color: white;
+        display: flex;
+        flex-direction: column;
+        margin-left: 15px;
+        
+        margin-top: 20px;
+}
+.judul-v-fr h1{
+        font-family: 'Barlow Condensed';
+        font-size: 35px;
+        letter-spacing: 1px;
+}
+.judul-v-fr span{
+        margin-top: 5px;
+        font-size: 20px;
+}
+.sinopsis h1{
+        font-family: 'Zen Maru Gothic';
+        font-size: 35px;
+}
+.judul-vr{
+        margin-top: 270px;
+        display: flex;
+        flex-direction: column;
 }
 }

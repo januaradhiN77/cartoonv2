@@ -42,11 +42,11 @@
                 
             },
             "onepiecemv14": {
-                "title": "One Piece Movie 14",
+                "title": "One Piece Movie 14 : Stampede",
                 "terjemah": "One Piece",
                 "rating": "8.3",
                 "studio": "Toei Animation",
-                "rilis": "",
+                "rilis": "18 September 2019",
                 "gendre1": "Action",
                 "gendre2": "Adventure",
                 "gendre3": "Fantasy",

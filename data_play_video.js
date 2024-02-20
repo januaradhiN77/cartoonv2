@@ -19,10 +19,10 @@ const data = {
                 "videoUrl": "https://www.youtube.com/embed/6tmIF7RlMA4?feature=shared"
             },
 "onepiecemv14": {
-"title": "One Piece Movie 14",
+"title": "One Piece Movie 14 : Stampede",
 "episode": "Episode 1",
 "description": "Eksposisi perompak terhebat di dunia, oleh para perompak, untuk para perompak – Festival Perompak. Luffy dan kru Topi Jerami lainnya menerima undangan dari tuan rumahnya Buena Festa yang dikenal sebagai Master of Festivities. Mereka tiba untuk menemukan tempat yang penuh dengan paviliun glamor dan banyak perompak termasuk yang dari Generasi Terburuk. Tempatnya listrik.",
-"videoUrl": "https://hxfile.co/embed-oohnoye60u8w.html"
+"videoUrl": "https://acefile.co/player/19320220"
             },
 
 

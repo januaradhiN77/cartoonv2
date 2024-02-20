@@ -34,7 +34,12 @@ const data = {
 
 
 
-
+"findingnemo": {
+"title": "Finding Nemo",
+"episode": "Episode 1",
+"description": "Setelah anaknya tertangkap jaring nelayan di Great Barrier Reef dan dibawa ke Sydney, seekor clownfish pemalu bertekad menempuh perjalanan panjang penuh bahaya untuk menemukannya kembali.",
+"videoUrl": ""
+            },
 
 
 

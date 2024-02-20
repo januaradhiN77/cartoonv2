@@ -70,7 +70,20 @@
                 
             },
 
+"findingnemo": {
+                "title": "Finding Nemo",
+                "terjemah": "Finding Nemo",
+                "rating": "8.2",
+                "studio": "Wait Disney Pictures",
+                "rilis": "30 Mei 2003",
+                "gendre1": "Adventure",
+                "gendre2": "Drama",
+                "gendre3": "Animasi",
+                "description": "Setelah anaknya tertangkap jaring nelayan di Great Barrier Reef dan dibawa ke Sydney, seekor clownfish pemalu bertekad menempuh perjalanan panjang penuh bahaya untuk menemukannya kembali.",
+                "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg"
 
+                
+            },
 
 
 

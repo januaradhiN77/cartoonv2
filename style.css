@@ -28,7 +28,7 @@ html {
                height: 60px;
                display: flex;
                border-bottom: 1px #000000A3 solid;
-               z-index: 9999;
+               z-index: 999999;
                background-color: #171C28C4;
                backdrop-filter: blur(7px);
         }
@@ -42,6 +42,12 @@ html {
         .header_logo img{
                width: 190px;
                
+        }
+        .header_logo span{
+                color: white;
+                margin-right: auto;
+                font-size: 40px;
+                margin-left: 15px;
         }
 
 .banner-img{
@@ -115,6 +121,16 @@ html {
     border-radius: 10px;
     height: 100%;
     background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
+}
+.image-overlay-videos{
+
+    position: absolute;
+
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(9, 9, 9, 1), rgba(0, 0, 0, 0));
 }
 .judul-movies{
         color: white;
@@ -268,5 +284,148 @@ html {
   color: transparent; /* Atur warna teks sesuai kebutuhan */
   padding: 0px 0px; /* Atur ukuran padding sesuai kebutuhan */
   border-radius: 5px; /* Atur radius border sesuai kebutuhan */
+}
+        .header-image-v{
+
+
+
+               position: fixed;
+
+               top: 0;
+               left: 0;
+               width: 100%;
+               
+               
+               
+               
+        }
+        .image-videos{
+                
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width:100%;
+                height: 430px;
+                position: relative;
+                flex-direction: column;
+                margin-top: 0px;
+                z-index: 99
+        }
+        .image-videos img{
+               width: 100%;
+               object-fit: cover;
+               height: 430px;
+        }
+        .cartoon-detail{
+                display: flex;
+                flex-direction: column;
+           
+             
+        }
+        .cartoon-detail-cont{
+                color: white;
+                width: 90%;
+                     z-index: 99;
+                margin-top: 430px;
+                margin-left:15px;
+                
+        }
+        .cartoon-detail-cont h1{
+                font-family: 'Zen Maru Gothic';
+                font-size: 35px;
+        }
+        .cartoon-detail-cont span{
+                color: #FFC759;
+                font-size: 19px;
+                font-family: 'Inter';
+        }
+        .keterangan-videos{
+                display: flex;
+                margin-top: 20px;
+                
+                align-items: center ;
+                gap: 10px;
+        }
+        .keterangan-videos span{
+                color: #FFE466;
+        }
+        .garis{
+                width: 1px;
+                background: #FFFFFFA3;
+                height: 20px;
+        }
+        .genre-v{
+                display: flex;
+                flex-wrap: wrap;
+        
+        
+        margin-top: 20px;
+        color: white;
+        gap: 1rem;
+        }
+        .genre-videos h1{
+                width:auto;
+
+  display: flex;
+  padding: 0px 20px;
+  height: 35px;
+  
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 10px 0px;
+  background: #171C28;
+  font-family: 'Zen Maru Gothic';
+
+
+
+        font-size: 18px;
+
+        font-weight: 700;
+  color: #FFCA5A;
+        }
+        .sinopsis{
+                margin-top: 40px;
+                
+        }
+        .sinopsis span{
+                font-family: 'Inter';
+                letter-spacing: 0.20px;
+                color: white;
+                font-size: 17px;
+        }
+        .button-nonton{
+
+        display: flex;
+
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+        text-align: center;
+        
+        
+}
+.button-nonton span{
+        
+
+  width:280px;
+
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px 10px 10px 10px;
+  background: #171C28;
+  color: #FFCA5A;
+  
+}
+.button-nonton span{
+        font-family: 'Zen Maru Gothic';
+
+        font-size: 25px;
+
+        font-weight: 700;
 }
 }

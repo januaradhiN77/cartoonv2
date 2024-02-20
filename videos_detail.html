@@ -32,7 +32,7 @@
                 <div class="header-image">
                 <div class="image-videos">
                         
-                <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg">
+                <img id="bgimg" src="">
                 <div class="image-overlay-videos"></div>
                 </div>
 
@@ -40,15 +40,15 @@
 </section>
 <section class="cartoon-detail">
         <div class="cartoon-detail-cont">
-                <h1>Battle Of Surabaya</h1>
-                <span>Pertempuran Surabaya</span>
+                <h1 id="title"></h1>
+                <span id="terjemah"></span>
                 <div class="keterangan-videos">
                         <span class="mdi mdi-star"></span>
-                        <span style="color: white;">6.4</span>
+                        <span id="rating" style="color: white;"></span>
                         <div class="garis"></div>
-                        <span style="color: white; font-weight: 300;">MSV Pictures</span>
+                        <span id="studio" style="color: white; font-weight: 300;"></span>
                         <div class="garis"></div>
-                        <span style="color: white; font-weight: 300;">20 Agustus 2015</span>
+                        <span id="rilis" style="color: white; font-weight: 300;"></span>
                 </div>
                 <div class="genre-v">
                         <div class="genre-videos">
@@ -62,10 +62,10 @@
                         </div>
                 </div>
                 <div class="sinopsis">
-                        <span>Battle of Surabaya adalah film animasi 2D, drama, aksi dan sejarah Indonesia produksi MSV Pictures. Karya perdana sutradara muda Aryanto Yuniawan ini menampilkan tokoh dan cerita fiktif, tetapi berlatar belakang sejarah perjuangan bangsa Indonesia pada saat perang Surabaya 1945. </span>
+                        <span id="description"> </span>
                 </div>
                          <div class="button-nonton">
-                       <button class="buttongoweb" onclick="goToWebsite('video_testing.html')"><span class="mdi mdi-play-circle">Tonton</span></button>
+                       <button class="buttongoweb" id="watchButton"><span class="mdi mdi-play-circle">Tonton</span></button>
 
                 </div>
         </div>
@@ -116,6 +116,7 @@
         </div>
 </section>
 <script src="main.js"></script>
+    <script src="data_video.js"></script>
 </body>
 
 </html>

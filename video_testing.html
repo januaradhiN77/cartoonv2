@@ -20,22 +20,19 @@
 </head>
 <header>
                 <div class="header_app">
-<button class="buttongoweb" onclick="goToWebsite('videos_detail.html')"> <div class="header_logo">
 
-<span class="mdi mdi-arrow-left"></span>
-                </div></button>
 
         </div>
 </header>
 <body>
         <section class="videos-fr">
-<div class="video-controller"><video controls playsinline style="width: 100%; mheight: 100%;"><source src="https://pixeldrain.com/api/file/jLXe89mP" type="video/mp4" /></video></div>
+<div class="video-controller"><div id="videoContainer"></div></div>
         </section>
         
         <section class="judul-vr">
                 <div class="judul-v-fr">
-        <h1>Battle Of Surabaya </h1>
-        <span>Episode 1</span>
+        <h1 id="title"></h1>
+        <span id="episode"></span>
 </div>
    <div class="button-nonton">
                        <button class="buttongoweb" onclick="goToWebsite('https://www.instagram.com/januaradhin?igsh=aWg0Y3lxMWNsbnFz')"><span class="mdi mdi-download">Download</span></button>
@@ -43,7 +40,7 @@
                 </div>
                                 <div class="sinopsis" style="display: flex; flex-direction: column;text-align: left; color: white;justify-content: center; align-items: center; width: 90%; margin-left: 15px;">
                                         <h1 style="margin-right: auto;">Sinopsis</h1>
-                                        <span style="margin-top: 20px;">menceritakan tentang petualangan Musa. Ia adalah Seorang remaja yang bekerja sebagai tukang semir sepatu yang menjadi kurir bagi perjuangan arek-arek Suroboyo pada pertempuran 10 November 1945.<br><br> Cerita diawali dengan visualisasi dahsyat dari pengeboman kota Hiroshima oleh Sekutu yang menandakan menyerahnya Jepang. <br><br>“Indonesia merdeka, itu yang kudengar di RRI, Jepang menyerah!”, kata Musa. Tetapi langit Surabaya kembali merah dengan peristiwa Insiden Bendera dan kedatangan Sekutu yang ditumpangi oleh Belanda.
+                           <span style="margin-top: 20px;" id="description">
  </span>
                                 </div>
         </section>
@@ -92,7 +89,10 @@
 
         </div>
 </section>
+
 <script src="main.js"></script>
+<script src="data_play_video.js"></script>
+</script>
 </body>
 
 </html>

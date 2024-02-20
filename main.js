@@ -8,3 +8,12 @@ window.addEventListener('load', function() {
   }, 2000);
 });
 
+function addOverlay(event) {
+  var overlay = event.currentTarget.querySelector('.overlay');
+  overlay.classList.add('active');
+}
+
+function removeOverlay(event) {
+  var overlay = event.currentTarget.querySelector('.overlay');
+  overlay.classList.remove('active');
+}

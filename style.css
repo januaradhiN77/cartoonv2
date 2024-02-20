@@ -80,7 +80,7 @@ html {
   width:140px;
   display: flex;
   flex-direction: column;
-  height: 250px;
+  height: 235px;
   position: relative;
   justify-content: center;
   align-items: center;
@@ -161,5 +161,12 @@ html {
     100% {
         background-position: -100% 0;
     }
+}
+.movies-box:hover{
+        background: #FFFFFFAB;
+        transition: 0.5s;
+}
+.movies-box:not(:hover){
+        transition: 0.5s;
 }
 }

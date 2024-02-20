@@ -18,8 +18,35 @@ const data = {
                 "description": "Upin & Ipin: Keris Siamang Tunggal adalah film petualangan dan fantasi terbaru dari Upin & Ipin dan keenam sahabatnya: Ehsan, Fizi, Mail, Jarjit, Mei Mei, dan Susanti dalam menyelamatkan kerajaan fantasi Inderaloka dari ancaman musuhnya, Raja Bersiong yang jahat. Cerita bermula saat Upin, Ipin, dan para sahabatnya tak sengaja menemukan keris mistis di gudang Tok Dalang yang ternyata membuka portal menuju kerajaan Inderaloka.",
                 "videoUrl": "https://www.youtube.com/embed/6tmIF7RlMA4?feature=shared"
             },
-            
-            
+"onepiecemv14": {
+"title": "One Piece Movie 14",
+"episode": "Episode 1",
+"description": "Eksposisi perompak terhebat di dunia, oleh para perompak, untuk para perompak – Festival Perompak. Luffy dan kru Topi Jerami lainnya menerima undangan dari tuan rumahnya Buena Festa yang dikenal sebagai Master of Festivities. Mereka tiba untuk menemukan tempat yang penuh dengan paviliun glamor dan banyak perompak termasuk yang dari Generasi Terburuk. Tempatnya listrik.",
+"videoUrl": "https://hxfile.co/embed-oohnoye60u8w.html"
+            },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
             
             
             

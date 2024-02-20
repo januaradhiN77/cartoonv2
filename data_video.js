@@ -41,7 +41,20 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OHumwVLkKLp5EI05xP20NbZJKDmhFAiUsQ&usqp=CAU"
                 
             },
+            "onepiecemv14": {
+                "title": "One Piece Movie 14",
+                "terjemah": "One Piece",
+                "rating": "8.3",
+                "studio": "Toei Animation",
+                "rilis": "",
+                "gendre1": "Action",
+                "gendre2": "Adventure",
+                "gendre3": "Fantasy",
+                "description": "Eksposisi perompak terhebat di dunia, oleh para perompak, untuk para perompak – Festival Perompak. Luffy dan kru Topi Jerami lainnya menerima undangan dari tuan rumahnya Buena Festa yang dikenal sebagai Master of Festivities. Mereka tiba untuk menemukan tempat yang penuh dengan paviliun glamor dan banyak perompak termasuk yang dari Generasi Terburuk. Tempatnya listrik.",
+                "bgimg": "https://nimegami.id/wp-content/uploads/2020/02/images-2020-02-22T112315.305.jpeg"
 
+                
+            },
 
 
 

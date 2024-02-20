@@ -12,7 +12,12 @@ const data = {
                 "description": "Ochobot, si robot teman BoBoiBoy, telah diculik oleh sebuah komplotan pemburu harta karun asing berjulukan The Tengkotak, dan akan mereka gunakan untuk melacak lokasi Sfera Kuasa kuno yang bersembunyi di Bumi.",
                 "videoUrl": "https://acefile.co/player/51182839"
             },
-            
+            "upinipinkerissiamangtunggal": {
+                "title": "Upin & Ipin Keris Siamang Tunggal",
+"episode": "Episode 1",
+                "description": "Upin & Ipin: Keris Siamang Tunggal adalah film petualangan dan fantasi terbaru dari Upin & Ipin dan keenam sahabatnya: Ehsan, Fizi, Mail, Jarjit, Mei Mei, dan Susanti dalam menyelamatkan kerajaan fantasi Inderaloka dari ancaman musuhnya, Raja Bersiong yang jahat. Cerita bermula saat Upin, Ipin, dan para sahabatnya tak sengaja menemukan keris mistis di gudang Tok Dalang yang ternyata membuka portal menuju kerajaan Inderaloka.",
+                "videoUrl": "https://www.youtube.com/embed/6tmIF7RlMA4?feature=shared"
+            },
             
             
             
@@ -35,7 +40,7 @@ const data = {
             const videoContainer = document.getElementById("videoContainer");
               const episodeElement = document.getElementById("episode");
 
-titleElement.textContent = data[animation].title;
+titleElement.innerHTML = data[animation].title;
             episodeElement.textContent = data[animation].episode;
             descriptionElement.innerHTML = data[animation].description;
 const iframe = document.createElement("iframe");

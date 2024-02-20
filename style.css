@@ -335,6 +335,12 @@ html {
         .cartoon-detail-cont h1{
                 font-family: 'Zen Maru Gothic';
                 font-size: 35px;
+                display: -webkit-box;
+
+        -webkit-box-orient: vertical;
+
+        -webkit-line-clamp: 1;
+        overflow: hidden;
         }
         .cartoon-detail-cont span{
                 color: #FFC759;

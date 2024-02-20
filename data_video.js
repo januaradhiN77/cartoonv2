@@ -22,7 +22,16 @@
                 
             },
 
-
+            "upinipinkerissiamangtunggal": {
+                "title": "Upin & Ipin Keris Siamang Tunggal",
+            "terjemah": "Upin & Ipin",
+                "rating": "7.3",
+                "studio": "Les' Copaque Production",
+                "rilis": "9 Mei 2019",
+                "description": "Upin & Ipin: Keris Siamang Tunggal adalah film petualangan dan fantasi terbaru dari Upin & Ipin dan keenam sahabatnya: Ehsan, Fizi, Mail, Jarjit, Mei Mei, dan Susanti dalam menyelamatkan kerajaan fantasi Inderaloka dari ancaman musuhnya, Raja Bersiong yang jahat. Cerita bermula saat Upin, Ipin, dan para sahabatnya tak sengaja menemukan keris mistis di gudang Tok Dalang yang ternyata membuka portal menuju kerajaan Inderaloka.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OHumwVLkKLp5EI05xP20NbZJKDmhFAiUsQ&usqp=CAU"
+                
+            },
 
 
 

@@ -319,7 +319,6 @@
 
 
 
-
         };
 
         // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
@@ -352,16 +351,31 @@ const gendre3Element = document.getElementById("g3");
     const episodes = data[animation].episodes;
 
     // Membuat tombol episode untuk setiap episode
-    episodes.forEach((episode) => {
-        const episodeButton = document.createElement("button");
-        episodeButton.textContent = episode.episodeTitle;
-        episodeButton.addEventListener("click", function() {
-            window.location.href = episode.episodeUrl;
-        });
-        episodeContainer.appendChild(episodeButton);
-    });
+    
+    //episodes.forEach((episode) => {
+      //  const episodeButton = document.createElement("button");
+        
+      //  episodeButton.textContent = episode.episodeTitle;
+       // episodeButton.addEventListener("click", function() {
+//window.location.href = episode.episodeUrl;
+      //  });
+     //   episodeContainer.appendChild(episodeButton);
+        
+  //  });//*
 
+episodes.forEach((episode) => {
+  const episodeButton = document.createElement("button");
+  const iconElement = document.createElement("span");
+  iconElement.classList.add("mdi", "mdi-play-circle"); // Ganti "mdi-icon-name" dengan nama class ikon MDI yang kamu inginkan
+iconElement.style.fontSize = "30px"
+  episodeButton.textContent = episode.episodeTitle;
+  episodeButton.addEventListener("click", function() {
+    window.location.href = episode.episodeUrl;
+  });
 
+  episodeButton.insertBefore(iconElement, episodeButton.firstChild);
+  episodeContainer.appendChild(episodeButton);
+});
             
            // const watchButton = document.getElementById("watchButton");
 

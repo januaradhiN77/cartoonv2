@@ -416,7 +416,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (waiting upload)", 
+       "episodeTitle": "Episode 1 (proses upload...)", 
        "episodeUrl": "",
 
                     

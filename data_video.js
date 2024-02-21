@@ -361,7 +361,27 @@
         ]
                 
             },
+"cars3": {
+                "title": "Cars 3",
+                "terjemah": "Cars",
+                "rating": "6.7",
+                "studio": "Walt Disney Pictures",
+                "rilis": "16 Agustus 2016",
+                "gendre1": "Animasi",
+                "gendre2": "Laga",
+                "gendre3": "Drama",
+                "description": "Reputasi pebalap legendaris Lightning McQueen mulai tersaingi dengan kemunculan pebalap-pebalap muda. Bersama rekannya, Cruz Ramirez, McQueen berusaha mempertahankan gelarnya sebagai raja sirkuit.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg",
+"episodes": [
+        {
+       "episodeTitle": "Episode 1 (waiting upload)", 
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

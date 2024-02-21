@@ -382,7 +382,27 @@
         ]
                 
             },
+"toysstory4": {
+                "title": "Toys Story 4",
+                "terjemah": "Toys Story",
+                "rating": "7.7",
+                "studio": "Walt Disney Pictures",
+                "rilis": "21 Juni 2019",
+                "gendre1": "Animasi",
+                "gendre2": "Horror",
+                "gendre3": "Adventure",
+                "description": "Woody selalu merasa percaya diri akan posisinya di dunia, dan prioritasnya adalah menjaga anaknya, baik itu Andy atau Bonnie. Namun ketika Bonnie menambahkan sebuah mainan baru bernama Forky dalam kamar mainannya, sebuah pengembaraan bersama teman-teman lama dan baru akan membawa Woody untuk menyaksikan betapa besarnya dunia ini bagi sebuah mainan seperti dirinya.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcr3syHWiZWKbbDU0KS6G7fbmLBvi3tLmJw&usqp=CAU",
+"episodes": [
+        {
+       "episodeTitle": "Episode 1", 
+       "episodeUrl": "https://acefile.co/player/103534399/toy-story-4-2019-blurãy-480p-ßioskopkaca21-com-mp4",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

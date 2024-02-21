@@ -382,8 +382,8 @@
         ]
                 
             },
-"toysstory4": {
-                "title": "Toys Story 4",
+"toystory4": {
+                "title": "Toy Story 4",
                 "terjemah": "Toys Story",
                 "rating": "7.7",
                 "studio": "Walt Disney Pictures",

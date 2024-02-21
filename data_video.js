@@ -403,7 +403,27 @@
         ]
                 
             },
+"bighero6": {
+                "title": "Big Hero 6",
+                "terjemah": "Big Hero",
+                "rating": "7.8",
+                "studio": "Walt Disney Pictures",
+                "rilis": "23 Oktober 2014",
+                "gendre1": "Animasi",
+                "gendre2": "Laga",
+                "gendre3": "Adventure",
+                "description": "Hiro, bocah genius, harus melewati tragedi kematian kakaknya. Kini, bersama teman-temannya yang ia ubah menjadi suprhero berteknologi tinggi, dan Baymax, robot tiup, ia harus menyelamatkan kota.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
+"episodes": [
+        {
+       "episodeTitle": "Episode 1 (waiting upload)", 
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

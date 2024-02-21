@@ -371,7 +371,7 @@
                 "gendre2": "Laga",
                 "gendre3": "Drama",
                 "description": "Reputasi pebalap legendaris Lightning McQueen mulai tersaingi dengan kemunculan pebalap-pebalap muda. Bersama rekannya, Cruz Ramirez, McQueen berusaha mempertahankan gelarnya sebagai raja sirkuit.",
-                "bgimg": "https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQ4vK2-KysVXNtSOuqELwVhVXDjLdFqRPP07QJGoS9638KAI2ISc5J9Pb&s=10",
 "episodes": [
         {
        "episodeTitle": "Episode 1", 

@@ -117,7 +117,7 @@
                 "gendre1": "Adventure",
                 "gendre2": "Drama",
                 "gendre3": "Animasi",
-                "description": "Setelah anaknya tertangkap jaring nelayan di Great Barrier Reef dan dibawa ke Sydney, seekor clownfish pemalu bertekad menempuh perjalanan panjang penuh bahaya untuk menemukannya kembali.",
+                "description": "Dua ikan badut bernama Marlin dan istrinya Coral, mengagumi rumah baru mereka di Great Barrier Reef dan kopling mereka telur ketika barracuda menyerang, mengetuk Marlin sadar. Dia bangun untuk mengetahui bahwa Coral dan semua kecuali satu dari telur telah dimakan oleh barracuda. Marlin namakan telur terakhir ini Nemo, nama yang Coral sukai.",
                 "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
 "episodes": [
         {

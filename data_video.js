@@ -384,7 +384,7 @@
             },
 "toystory4": {
                 "title": "Toy Story 4",
-                "terjemah": "Toys Story",
+                "terjemah": "Toy Story",
                 "rating": "7.7",
                 "studio": "Walt Disney Pictures",
                 "rilis": "21 Juni 2019",

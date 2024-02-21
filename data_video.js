@@ -129,7 +129,27 @@
         ]
                 
             },
+"jujutsukaisenseason2": {
+                "title": "Jujutsu Kaisen Season 2",
+                "terjemah": "Jujutsu Kaisen",
+                "rating": "8.6",
+                "studio": "MAPPA",
+                "rilis": "6 Juli 2023",
+                "gendre1": "Action",
+                "gendre2": "Fantasy",
+                "gendre3": "School",
+                "description": "menceritakan mengenai masa lalu Gojo dan Arc Insiden Shibuya. Masa lalu Gojo Satoru dimulai sejak 11 tahun sebelum Yuji Itadori masuk SMA Jujutsu Tokyo. Gojo Satoru bersahabat dengan Suguru Geto, yakni sama-sama murid kedua di SMA Jujutsu Tokyo yang menerima tugas dari master Tengen untuk mengantar Riko Amanai kembali ke sekolah.",
+                "bgimg": "https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg",
+"episodes": [
+        {
+       "episodeTitle": "Episode 1 (coming soon)", 
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

@@ -286,7 +286,81 @@
         ]
                 
             },
+"cyberpunkedgerunners": {
+                "title": "Cyberpunk: Edgerunners",
+                "terjemah": "Cyberpunk",
+                "rating": "8.3",
+                "studio": "CD Projekt",
+                "rilis": "13 September 2022",
+                "gendre1": "Cyberpunk",
+                "gendre2": "Laga",
+                "gendre3": "Animasi",
+                "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+                "bgimg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx1rOlEyrHkLG8xRwYH58jZsNzRJlpnHXWND_rsNSLsOHORwDW",
+"episodes": [
+        {
+       "episodeTitle": "Episode 10 (coming soon)", 
+       "episodeUrl": "",
 
+                    
+       },
+       {
+               "episodeTitle": "Episode 9 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 8 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 7 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 6 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 5 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 4 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 3 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 2 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+       {
+               "episodeTitle": "Episode 1 (coming soon)",
+               "episodeUrl": "",
+       
+       
+       },
+        ]
+                
+            },
 
 
 

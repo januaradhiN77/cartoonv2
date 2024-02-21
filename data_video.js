@@ -29,7 +29,7 @@
                 "rating": "4.8",
                 "studio": "Monsta",
                 "gendre1": "Action",
-                "gendre2": "Komedi",
+                "gendre2": "Comedy",
                 "gendre3": "Adventure",
                 "rilis": "3 Maret 2016",
                 "description": "Ochobot, si robot teman BoBoiBoy, telah diculik oleh sebuah komplotan pemburu harta karun asing berjulukan The Tengkotak, dan akan mereka gunakan untuk melacak lokasi Sfera Kuasa kuno yang bersembunyi di Bumi.",

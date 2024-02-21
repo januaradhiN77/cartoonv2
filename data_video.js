@@ -142,6 +142,142 @@
                 "bgimg": "https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg",
 "episodes": [
         {
+                
+                
+       "episodeTitle": "Episode 23 (coming soon)",
+       "episodeUrl": "",
+
+
+       },
+       {
+       "episodeTitle": "Episode 22 (coming soon)",
+       "episodeUrl": "",
+
+
+       },
+       {
+       "episodeTitle": "Episode 21 (coming soon)",
+       "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 20 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 19 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 18 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 17 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 16 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 15 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 14 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 13 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 12 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 11 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 10 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 9 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 8 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 7 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 6 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 5 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 4 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 3 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+       {
+               "episodeTitle": "Episode 2 (coming soon)",
+               "episodeUrl": "",
+
+
+       },
+
+{
+
        "episodeTitle": "Episode 1 (coming soon)", 
        "episodeUrl": "",
 

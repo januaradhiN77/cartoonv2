@@ -112,7 +112,7 @@
                 "title": "Finding Nemo",
                 "terjemah": "Finding Nemo",
                 "rating": "8.2",
-                "studio": "Wait Disney Pictures",
+                "studio": "Walt Disney Pictures",
                 "rilis": "30 Mei 2003",
                 "gendre1": "Adventure",
                 "gendre2": "Drama",

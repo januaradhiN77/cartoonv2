@@ -1,0 +1,59 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Video Player</title>
+</head>
+<body>
+    <div id="videoContainer"></div>
+    <h1 id="title"></h1>
+    <p id="description"></p>
+    <div id="episodeContainer"></div>
+
+    <script>
+        const data = {
+            "bos": {
+                "title": "Battle Of Surabaya",
+                "episodes": [
+                    {
+                        "episodeTitle": "Episode 1",
+                        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP"
+                    },
+                    {
+                        "episodeTitle": "Episode 2",
+                        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP"
+                    }
+                ],
+                "description": "menceritakan tentang petualangan Musa. Ia adalah Seorang remaja yang bekerja sebagai tukang semir sepatu yang menjadi kurir bagi perjuangan arek-arek Suroboyo pada pertempuran 10 November 1945.<br><br> Cerita diawali dengan visualisasi dahsyat dari pengeboman kota Hiroshima oleh Sekutu yang menandakan menyerahnya Jepang. <br><br>“Indonesia merdeka, itu yang kudengar di RRI, Jepang menyerah!”, kata Musa. Tetapi langit Surabaya kembali merah dengan peristiwa Insiden Bendera dan kedatangan Sekutu yang ditumpangi oleh Belanda."
+            },
+            // Tambahkan data animasi lainnya...
+        };
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const animation = urlParams.get("animation");
+
+        if (animation && data.hasOwnProperty(animation)) {
+            const videoContainer = document.getElementById("videoContainer");
+            const titleElement = document.getElementById("title");
+            const descriptionElement = document.getElementById("description");
+            const episodeContainer = document.getElementById("episodeContainer");
+
+            titleElement.innerHTML = data[animation].title;
+            descriptionElement.innerHTML = data[animation].description;
+
+            const episodes = data[animation].episodes;
+
+            episodes.forEach((episode) => {
+                const iframe = document.createElement("iframe");
+                iframe.src = episode.episodeUrl;
+                iframe.width = "100%";
+                iframe.height = "220";
+                iframe.frameBorder = "0";
+                iframe.allowFullscreen = true;
+
+                episodeContainer.appendChild(iframe);
+            });
+        }
+    </script>
+</body>
+</html>

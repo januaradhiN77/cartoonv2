@@ -405,7 +405,8 @@ html {
         .button-nonton{
 
         display: flex;
-
+        flex-direction: column;
+        gap: 10px;
         width: 100%;
         justify-content: center;
         align-items: center;
@@ -414,9 +415,18 @@ html {
         
         
 }
-.button-nonton span{
+.button-nonton button{
         
+background-color: transparent;
 
+
+
+  border: 0px solid transparent; /* Atur warna dan ukuran garis sesuai kebutuhan */
+  color: transparent; /* Atur warna teks sesuai kebutuhan */
+  padding: 0px 0px; /* Atur ukuran padding sesuai kebutuhan */
+  text-align: left;
+  margin: 0;
+  border-radius: 5px; /* Atur radius border sesuai kebutuhan */
   width:280px;
 
   display: flex;
@@ -430,7 +440,7 @@ html {
   color: #FFCA5A;
   
 }
-.button-nonton span{
+.button-nonton button{
         font-family: 'Zen Maru Gothic';
 
         font-size: 25px;

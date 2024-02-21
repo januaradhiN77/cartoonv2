@@ -374,7 +374,7 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/9/94/Cars_3_poster.jpg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 uploaded", 
+       "episodeTitle": "Episode 1", 
        "episodeUrl": "https://acefile.co/player/103533717/cars-3-2017-bluray-480p-bioskopkaca21-com-mp4",
 
                     

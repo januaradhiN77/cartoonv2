@@ -417,7 +417,7 @@
 "episodes": [
         {
        "episodeTitle": "Episode 1", 
-       "episodeUrl": "https://acefile.co/player/103535839"",
+       "episodeUrl": "https://acefile.co/player/103535839",
 
                     
        }

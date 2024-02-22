@@ -417,7 +417,7 @@
 "episodes": [
         {
        "episodeTitle": "Episode 1", 
-       "episodeUrl": "https://acefile.co/player/103536929/big-hero-6-blurãy-480p-ßioskopkaca21-com-mp4",
+       "episodeUrl": "https://drive.google.com/file/d/1YXGea4kg0IQdAQQgDP_fwFXefAwkr7wr/preview",
 
                     
        }

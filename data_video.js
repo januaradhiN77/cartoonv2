@@ -395,8 +395,8 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcr3syHWiZWKbbDU0KS6G7fbmLBvi3tLmJw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (maintenance)", 
-       "episodeUrl": "",
+       "episodeTitle": "Episode 1", 
+       "episodeUrl": "https://drive.google.com/file/d/17jbBgaU09AFMwN6FP-5bk2T6f_gw3Y_z/preview",
 
                     
        }

@@ -509,11 +509,11 @@ width: 340px;
    height: 40px;
 
    text-align: center;
-   background: #393939;
+   background: #2A2A2AAB;
    font-size: 15px;
    box-shadow: rgba(64, 60, 67, 0.3) 0px 1px 2px 0px, rgba(64, 60, 67, 0.15) 0px 0px 2px 0px;
    margin-top: 20px;
-   border-radius: 10px;
+   border-radius: 10px 10px 10px 0px;
    border: 0px solid;
    text: #FFFFFF;
    

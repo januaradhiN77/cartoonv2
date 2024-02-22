@@ -454,7 +454,7 @@
                 "gendre1": "Drama",
                 "gendre2": "Adventure",
                 "gendre3": "Dokumenter",
-                "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
+                "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
 "episodes": [
         {
@@ -476,7 +476,7 @@
                 "gendre1": "Animasi",
                 "gendre2": "Laga",
                 "gendre3": "Horor",
-                "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
+                "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg",
 "episodes": [
         {

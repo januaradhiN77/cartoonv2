@@ -445,7 +445,27 @@
         ]
                 
             },
+"bolt": {
+                "title": "Bolt",
+                "terjemah": "Bolt",
+                "rating": "6.8",
+                "studio": "Walt Disney Pictures",
+                "rilis": "3 Desember 2008",
+                "gendre1": "Drama",
+                "gendre2": "Adventure",
+                "gendre3": "Dokumenter",
+                "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
+"episodes": [
+        {
+       "episodeTitle": "Episode 1 (proses upload)", 
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

@@ -389,7 +389,7 @@
                 "studio": "Walt Disney Pictures",
                 "rilis": "21 Juni 2019",
                 "gendre1": "Animasi",
-                "gendre2": "Horror",
+                "gendre2": "Horor",
                 "gendre3": "Adventure",
                 "description": "Woody selalu merasa percaya diri akan posisinya di dunia, dan prioritasnya adalah menjaga anaknya, baik itu Andy atau Bonnie. Namun ketika Bonnie menambahkan sebuah mainan baru bernama Forky dalam kamar mainannya, sebuah pengembaraan bersama teman-teman lama dan baru akan membawa Woody untuk menyaksikan betapa besarnya dunia ini bagi sebuah mainan seperti dirinya.",
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcr3syHWiZWKbbDU0KS6G7fbmLBvi3tLmJw&usqp=CAU",
@@ -454,7 +454,7 @@
                 "gendre1": "Drama",
                 "gendre2": "Adventure",
                 "gendre3": "Dokumenter",
-                "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
+                "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
 "episodes": [
         {
@@ -467,7 +467,27 @@
                 
             },
 
+"lightyear": {
+                "title": "Lightyear",
+                "terjemah": "Lightyear",
+                "rating": "6.1",
+                "studio": "Walt Disney Pictures",
+                "rilis": "17 Juni 2022",
+                "gendre1": "Animasi",
+                "gendre2": "Laga",
+                "gendre3": "Horor",
+                "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg",
+"episodes": [
+        {
+       "episodeTitle": "Episode 1 (proses upload)", 
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

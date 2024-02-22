@@ -424,7 +424,27 @@
         ]
                 
             },
+"theincredibles2": {
+                "title": "The Incredibles 2",
+                "terjemah": "The Incredibles",
+                "rating": "",
+                "studio": "Walt Disney Pictures",
+                "rilis": "15 Juni 2018",
+                "gendre1": "Laga",
+                "gendre2": "Animasi",
+                "gendre3": "Adventure",
+                "description": "Bob Parr (Mr. Incredible) harus merawat ketiga anaknya, sementara Helen (Elastigirl) pergi menyelamatkan dunia.",
+                "bgimg": "https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg",
+"episodes": [
+        {
+       "episodeTitle": "Episode 1 (proses upload)", 
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

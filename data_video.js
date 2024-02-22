@@ -121,8 +121,8 @@
                 "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (maintenance)", 
-       "episodeUrl": "",
+       "episodeTitle": "Episode 1", 
+       "episodeUrl": "https://acefile.co/player/103552228",
 
                     
        }

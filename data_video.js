@@ -427,7 +427,7 @@
 "theincredibles2": {
                 "title": "The Incredibles 2",
                 "terjemah": "The Incredibles",
-                "rating": "",
+                "rating": "7.5",
                 "studio": "Walt Disney Pictures",
                 "rilis": "15 Juni 2018",
                 "gendre1": "Laga",

@@ -485,7 +485,7 @@ background-color: transparent;
         flex-direction: column;
 }
 .search-container{
-        justify-content: center;width: 100%; display: flex; gap: 5px;
+        justify-content: left;width: 100%; display: flex; gap: 10px;
 }
 .search-list{
 

@@ -121,8 +121,8 @@
                 "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
-       "episodeUrl": "https://pixeldrain.com/api/file/uiTWGWbK",
+       "episodeTitle": "Episode 1 (maintenance)", 
+       "episodeUrl": "",
 
                     
        }

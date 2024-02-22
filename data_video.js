@@ -416,8 +416,8 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (proses data)", 
-       "episodeUrl": "",
+       "episodeTitle": "Episode 1", 
+       "episodeUrl": "https://acefile.co/player/103554753",
 
                     
        }

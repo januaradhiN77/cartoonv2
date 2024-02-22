@@ -121,8 +121,8 @@
                 "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
-       "episodeUrl": "https://acefile.co/player/103553543",
+       "episodeTitle": "Episode 1 (maintenance)", 
+       "episodeUrl": "",
 
                     
        }
@@ -416,8 +416,8 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
-       "episodeUrl": "https://drive.google.com/file/d/1YXGea4kg0IQdAQQgDP_fwFXefAwkr7wr/preview",
+       "episodeTitle": "Episode 1 (proses data)", 
+       "episodeUrl": "",
 
                     
        }

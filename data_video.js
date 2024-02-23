@@ -35,7 +35,7 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/2f/Boboiboy_The_Movies.jpg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "Boboiboy The Movie (EP1)", 
        "episodeUrl": "https://acefile.co/player/51182839",
 
                     
@@ -44,7 +44,7 @@
             },
 
             "upinipinkerissiamangtunggal": {
-                "title": "Upin & Ipin Keris Siamang Tunggal",
+                "title": "Upin & Ipin : Keris Siamang Tunggal",
             "terjemah": "Upin & Ipin",
                 "rating": "7.3",
                 "gendre1": "Comedy",
@@ -56,7 +56,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OHumwVLkKLp5EI05xP20NbZJKDmhFAiUsQ&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "Upin & Ipin : Keris Siamang Tinggal (EP1)", 
        "episodeUrl": "https://www.youtube.com/embed/6tmIF7RlMA4?feature=shared",
 
                     
@@ -77,7 +77,7 @@
                 "bgimg": "https://nimegami.id/wp-content/uploads/2020/02/images-2020-02-22T112315.305.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "One Piece Movie 14 (EP1)", 
        "episodeUrl": "https://acefile.co/player/19320220",
 
                     
@@ -396,7 +396,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQ4vK2-KysVXNtSOuqELwVhVXDjLdFqRPP07QJGoS9638KAI2ISc5J9Pb&s=10",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "Cars 3 (EP1)", 
        "episodeUrl": "https://drive.google.com/file/d/1ntPxX9MJ7C4EhIwwSLQz6aTirQUrvClK/preview",
 
                     
@@ -417,7 +417,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcr3syHWiZWKbbDU0KS6G7fbmLBvi3tLmJw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "Toy Story 4 (EP1)", 
        "episodeUrl": "https://drive.google.com/file/d/17jbBgaU09AFMwN6FP-5bk2T6f_gw3Y_z/preview",
 
                     

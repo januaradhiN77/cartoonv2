@@ -5,7 +5,7 @@ window.addEventListener('load', function() {
     allSkeleton.forEach(item => {
       item.classList.remove('skeleton');
     });
-  }, 2000);
+  }, 1000);
 });
 
 function addOverlay(event) {

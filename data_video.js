@@ -13,17 +13,16 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "Battle Of Surabaya (EP 1)", 
        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP",
-
-                    
+       
             },
        
     
-        ]
+        ],
                 
  },
-            "boboiboythemovie": {
+"boboiboythemovie": {
                 "title": "Boboiboy The Movie",
             "terjemah": "Boboiboy The Movie",
                 "rating": "4.8",
@@ -487,8 +486,8 @@
                     
        }
         ]
-                
-            },
+},
+            
 
 
 
@@ -563,9 +562,14 @@ episodes.forEach((episode) => {
   iconElement.classList.add("mdi", "mdi-play-circle"); // Ganti "mdi-icon-name" dengan nama class ikon MDI yang kamu inginkan
 iconElement.style.fontSize = "30px"
   episodeButton.textContent = episode.episodeTitle;
-  episodeButton.addEventListener("click", function() {
-    window.location.href = "video_testing.html?vidio=" + encodeURIComponent(episode.episodeUrl);
-  });
+ // episodeButton.addEventListener("click", function() {
+   // window.location.href = "video_testing.html?vidio=" + encodeURIComponent(episode.episodeUrl);
+   episodeButton.addEventListener("click", function() {
+  const episodeUrl = encodeURIComponent(episode.episodeUrl);
+  const episodeTitle = encodeURIComponent(episode.episodeTitle);
+  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeTitle=${episodeTitle}`;
+});
+//  });
 
   episodeButton.insertBefore(iconElement, episodeButton.firstChild);
   episodeContainer.appendChild(episodeButton);

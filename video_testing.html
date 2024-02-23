@@ -27,16 +27,13 @@
 
    <section class="judul-vr">
       <div class="judul-v-fr">
-         <h1 id="title"></h1>
-         <span id="episode"></span>
+
+         <span id="episodeTitle"></span>
       </div>
       <div class="button-nonton">
          <button class="buttongoweb" onclick="goToWebsite('https://www.instagram.com/januaradhin?igsh=aWg0Y3lxMWNsbnFz')"><span class="mdi mdi-download">Download</span></button>
       </div>
-      <div class="sinopsis" style="display: flex; flex-direction: column;text-align: left; color: white;justify-content: center; align-items: center; width: 90%; margin-left: 15px;">
-         <h1 style="margin-right: auto;">Sinopsis</h1>
-         <span style="margin-top: 20px;" id="description"></span>
-      </div>
+
    </section>
    <div style="height: 1px; background: #FFFFFF73; width: 100%; margin-top: 20px;"></div>
    <section class="movies-container">
@@ -48,17 +45,16 @@
       </div>
    </section>
    <script>
-      // Mendapatkan parameter dari URL untuk menentukan video yang diputar
+      // Mendapatkan parameter dari URL untuk menentukan episode yang diputar
       const urlParams = new URLSearchParams(window.location.search);
-      const videoUrl = urlParams.get("vidio");
+      const episodeUrl = decodeURIComponent(urlParams.get("episodeUrl"));
+      const episodeTitle = decodeURIComponent(urlParams.get("episodeTitle"));
 
-      // Mengatur sumber iframe berdasarkan video yang dipilih
-      if (videoUrl) {
-         document.getElementById("videoPlayer").src = videoUrl;
-      }
+      // Mengatur judul episode
+      document.getElementById("episodeTitle").textContent = episodeTitle;
 
-      // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
-     
+      // Mengatur sumber iframe berdasarkan episode yang dipilih
+      document.getElementById("videoPlayer").src = episodeUrl;
    </script>
    <script src="main.js"></script>
    <script src="data_play_video.js"></script>

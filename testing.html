@@ -1,59 +1,111 @@
-
+Maaf atas kebingungan sebelumnya. Jika Anda ingin menampilkan data judul, deskripsi, dan episode pada tampilan video iframe, Anda perlu memperbarui kode JavaScript dalam file video_testing.html. Berikut adalah contoh kode yang diperbarui:
+ 
+ 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Video Player</title>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+   <title>Video Testing</title>
+   <!-- Custom Styles -->
+   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="videoContainer"></div>
-    <h1 id="title"></h1>
-    <p id="description"></p>
-    <div id="episodeContainer"></div>
+   <div id="detailContainer">
+      <h1 id="title"></h1>
+      <h2 id="terjemah"></h2>
+      <p id="rating"></p>
+      <p id="studio"></p>
+      <p id="rilis"></p>
+      <img id="bgimg" src="" alt="Background Image">
+      <div id="description"></div>
+      <div id="episodeContainer"></div>
+   </div>
+   <iframe id="videoPlayer" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="100%" height="100%" allowfullscreen="true"></iframe>
+   <script src="main.js"></script>
+   <script src="data_video.js"></script>
+   <script>
+      // Mendapatkan parameter dari URL untuk menentukan episode yang diputar
+      const urlParams = new URLSearchParams(window.location.search);
+      const episodeUrl = urlParams.get("episodeUrl");
+      const episodeTitle = urlParams.get("episodeTitle");
 
-    <script>
-        const data = {
-            "bos": {
-                "title": "Battle Of Surabaya",
-                "episodes": [
-                    {
-                        "episodeTitle": "Episode 1",
-                        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP"
-                    },
-                    {
-                        "episodeTitle": "Episode 2",
-                        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP"
-                    }
-                ],
-                "description": "menceritakan tentang petualangan Musa. Ia adalah Seorang remaja yang bekerja sebagai tukang semir sepatu yang menjadi kurir bagi perjuangan arek-arek Suroboyo pada pertempuran 10 November 1945.<br><br> Cerita diawali dengan visualisasi dahsyat dari pengeboman kota Hiroshima oleh Sekutu yang menandakan menyerahnya Jepang. <br><br>“Indonesia merdeka, itu yang kudengar di RRI, Jepang menyerah!”, kata Musa. Tetapi langit Surabaya kembali merah dengan peristiwa Insiden Bendera dan kedatangan Sekutu yang ditumpangi oleh Belanda."
-            },
-            // Tambahkan data animasi lainnya...
-        };
+      // Mengambil data episode dari objek data
+      const episodeData = data.bos.episodes.find(episode => episode.episodeTitle === episodeTitle);
 
-        const urlParams = new URLSearchParams(window.location.search);
-        const animation = urlParams.get("animation");
+      if (episodeData) {
+         // Mengatur judul episode
+         document.getElementById("title").textContent = episodeData.episodeTitle;
 
-        if (animation && data.hasOwnProperty(animation)) {
-            const videoContainer = document.getElementById("videoContainer");
-            const titleElement = document.getElementById("title");
-            const descriptionElement = document.getElementById("description");
-            const episodeContainer = document.getElementById("episodeContainer");
+         // Mengatur deskripsi episode
+         const descriptionElement = document.getElementById("description");
+         const descriptionParagraphs = data.bos.description.split("<br><br>");
+         descriptionParagraphs.forEach(paragraph => {
+            const p = document.createElement("p");
+            p.innerHTML = paragraph;
+            descriptionElement.appendChild(p);
+         });
 
-            titleElement.innerHTML = data[animation].title;
-            descriptionElement.innerHTML = data[animation].description;
+         // Mengatur sumber iframe berdasarkan episode yang dipilih
+         document.getElementById("videoPlayer").src = episodeUrl;
+      }
 
-            const episodes = data[animation].episodes;
+      // Mengatur konten detail animasi berdasarkan animasi yang dipilih
+      const animation = urlParams.get("animation");
+      if (animation && data.hasOwnProperty(animation)) {
+         const animationData = data[animation];
 
-            episodes.forEach((episode) => {
-                const iframe = document.createElement("iframe");
-                iframe.src = episode.episodeUrl;
-                iframe.width = "100%";
-                iframe.height = "220";
-                iframe.frameBorder = "0";
-                iframe.allowFullscreen = true;
+         // Mengatur judul animasi
+         document.getElementById("title").textContent = animationData.title;
 
-                episodeContainer.appendChild(iframe);
+         // Mengatur terjemahan animasi
+         document.getElementById("terjemah").textContent = animationData.terjemah;
+
+         // Mengatur rating animasi
+         document.getElementById("rating").textContent = `Rating: ${animationData.rating}`;
+
+         // Mengatur studio animasi
+         document.getElementById("studio").textContent = `Studio: ${animationData.studio}`;
+
+         // Mengatur tanggal rilis animasi
+         document.getElementById("rilis").textContent = `Rilis: ${animationData.rilis}`;
+
+         // Mengatur gambar latar belakang animasi
+         document.getElementById("bgimg").src = animationData.bgimg;
+
+         // Mengatur deskripsi animasi
+         const descriptionParagraphs = animationData.description.split("<br><br>");
+         descriptionParagraphs.forEach(paragraph => {
+            const p = document.createElement("p");
+            p.innerHTML = paragraph;
+            document.getElementById("description").appendChild(p);
+         });
+
+         // Membuat tombol episode untuk setiap episode
+         animationData.episodes.forEach(episode => {
+            const episodeButton = document.createElement("button");
+            const iconElement = document.createElement("span");
+            iconElement.classList.add("mdi", "mdi-play-circle");
+            iconElement.style.fontSize = "30px";
+            episodeButton.textContent = episode.episodeTitle;
+            episodeButton.addEventListener("click", function() {
+               const episodeUrl = encodeURIComponent(episode.episodeUrl);
+               const episodeTitle = encodeURIComponent(episode.episodeTitle);
+               window.location.href = `vidio.html?episodeUrl=${episodeUrl}&episodeTitle=${episodeTitle}`;
             });
-        }
-    </script>
+            episodeButton.insertBefore(iconElement, episodeButton.firstChild);
+            document.getElementById("episodeContainer").appendChild(episodeButton);
+         });
+      }
+   </script>
 </body>
 </html>
+ 
+ 
+Dalam kode di atas, saya telah men⚫

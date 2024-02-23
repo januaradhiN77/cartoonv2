@@ -438,7 +438,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "Big Hero 6 (Coming Soon)", 
        "episodeUrl": "https://acefile.co/player/103555356",
 
                     

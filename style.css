@@ -475,6 +475,16 @@ background-color: transparent;
         margin-top: 5px;
         font-size: 20px;
 }
+.sinopsis span{
+                        display: -webkit-box;
+
+
+
+        -webkit-box-orient: vertical;
+
+        -webkit-line-clamp: 1;
+        overflow: hidden;
+}
 .sinopsis h1{
         font-family: 'Zen Maru Gothic';
         font-size: 35px;

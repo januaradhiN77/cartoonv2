@@ -24,7 +24,10 @@ function goToWebsite(websiteURL) {
       window.location.href = websiteURL;
       //alert("Oops! Terjadi kesalahan. 4000");
     }
-    
+function goToError(websiteURL) {
+      //window.location.href = websiteURL;
+      alert("Fitur segera hadir!");
+    }
     
     const searchInput = document.getElementById("searchInput");
 const dataItems = document.querySelectorAll(".data-item");

@@ -560,7 +560,9 @@ episodes.forEach((episode) => {
   const episodeButton = document.createElement("button");
   const iconElement = document.createElement("span");
   iconElement.classList.add("mdi", "mdi-play-circle"); // Ganti "mdi-icon-name" dengan nama class ikon MDI yang kamu inginkan
-iconElement.style.fontSize = "30px"
+iconElement.style.fontSize = "30px";
+
+
   episodeButton.textContent = episode.episodeTitle;
  // episodeButton.addEventListener("click", function() {
    // window.location.href = "video_testing.html?vidio=" + encodeURIComponent(episode.episodeUrl);

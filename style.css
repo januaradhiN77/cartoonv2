@@ -405,7 +405,7 @@ html {
         .button-nonton{
 
         display: flex;
-        flex-direction: column;
+        
         gap: 10px;
         width: 100%;
         justify-content: center;
@@ -415,6 +415,7 @@ html {
         
         
 }
+
 .button-nonton button{
         
 background-color: transparent;
@@ -427,11 +428,11 @@ background-color: transparent;
   text-align: left;
   margin: 0;
   border-radius: 5px; /* Atur radius border sesuai kebutuhan */
-  width:280px;
+  width:100%;
 
   display: flex;
   gap: 10px;
-  height: 50px;
+  height: 60px;
   
   justify-content: center;
   align-items: center;
@@ -476,14 +477,7 @@ background-color: transparent;
         font-size: 20px;
 }
 .button-nonton span{
-                        display: -webkit-box;
-
-
-
-        -webkit-box-orient: vertical;
-
-        -webkit-line-clamp: 1;
-        overflow: hidden;
+                        
 }
 .sinopsis h1{
         font-family: 'Zen Maru Gothic';

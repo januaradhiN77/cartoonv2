@@ -1,99 +1,66 @@
+
 <!DOCTYPE html>
 <html>
-
 <head>
    <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-<link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
-    <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
+   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link href='https://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet'>
+   <link href='https://fonts.googleapis.com/css?family=Zen Maru Gothic' rel='stylesheet'>
    <link href='https://fonts.googleapis.com/css?family=Barlow Condensed' rel='stylesheet'>
    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
-       <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
-  <title>Cartoonn</title>
-  
-  <!-- HTML -->
-  
-
-  <!-- Custom Styles -->
-  <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@mdi/font@7.3.67/css/materialdesignicons.min.css">
+   <title>Cartoonn</title>
+   <!-- Custom Styles -->
+   <link rel="stylesheet" href="style.css">
 </head>
 <header>
-                <div class="header_app">
-
-
-        </div>
+   <div class="header_app">
+   </div>
 </header>
 <body>
-        <section class="videos-fr">
-<div class="video-controller"><div id="videoContainer"></div></div>
-        </section>
-        <iframe src="https://acefile.co/player/103553081" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH="100%" HEIGHT="100%" allowfullscreen="true" style="margin-top: 50px;"></iframe>
+   <section class="videos-fr">
+      <div class="video-controller">
+         <div id="videoContainer"></div>
+      </div>
+   </section>
+   <iframe src="" id="videoPlayer" FRAMEBORDER=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=NO WIDTH="100%" HEIGHT="100%" allowfullscreen="true" style="margin-top: 60px;"></iframe>
+   <section class="judul-vr">
+      <div class="judul-v-fr">
+         <h1 id="title"></h1>
+         <span id="episode"></span>
+      </div>
+      <div class="button-nonton">
+         <button class="buttongoweb" onclick="goToWebsite('https://www.instagram.com/januaradhin?igsh=aWg0Y3lxMWNsbnFz')"><span class="mdi mdi-download">Download</span></button>
+      </div>
+      <div class="sinopsis" style="display: flex; flex-direction: column;text-align: left; color: white;justify-content: center; align-items: center; width: 90%; margin-left: 15px;">
+         <h1 style="margin-right: auto;">Sinopsis</h1>
+         <span style="margin-top: 20px;" id="description"></span>
+      </div>
+   </section>
+   <div style="height: 1px; background: #FFFFFF73; width: 100%; margin-top: 20px;"></div>
+   <section class="movies-container">
+      <div class="header-movies-text">
+         <h1 style="font-size: 20px;">Yang Mungkin Anda Suka</h1>
+      </div>
+      <div class="movies">
 
-        <section class="judul-vr">
-                <div class="judul-v-fr">
-        <h1 id="title"></h1>
-        <span id="episode"></span>
-</div>
-   <div class="button-nonton">
-                       <button class="buttongoweb" onclick="goToWebsite('https://www.instagram.com/januaradhin?igsh=aWg0Y3lxMWNsbnFz')"><span class="mdi mdi-download">Download</span></button>
+      </div>
+   </section>
+   <script>
+      // Mendapatkan parameter dari URL untuk menentukan video yang diputar
+      const urlParams = new URLSearchParams(window.location.search);
+      const videoUrl = urlParams.get("vidio");
 
-                </div>
-                                <div class="sinopsis" style="display: flex; flex-direction: column;text-align: left; color: white;justify-content: center; align-items: center; width: 90%; margin-left: 15px;">
-                                        <h1 style="margin-right: auto;">Sinopsis</h1>
-                           <span style="margin-top: 20px;" id="description">
- </span>
-                                </div>
-        </section>
-        <div style="height: 1px; background: #FFFFFF73; width: 100%; margin-top: 20px;"></div>
-<section class="movies-container">
-        <div class="header-movies-text">
-                <h1 style="font-size: 20px;">Yang Mungkin Anda Suka</h1>
-        </div>
-        <div class="movies">
-                <div id="c6" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg">
-                  <div class="image-overlay"></div>
-                  <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Battle Of Surabaya</h1></div>
-                </div>
-                <div id="c7" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg">
-                  <div class="image-overlay"></div>
-                  <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Battle Of Surabaya</h1></div>
-                </div>
-                <div id="c8" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg">
-                  <div class="image-overlay"></div>
-                  <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Battle Of Surabaya</h1></div>
-                </div>
-                <div id="c9" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg">
-                  <div class="image-overlay"></div>
-                  <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Battle Of Surabaya</h1></div>
-                </div>
-                <div id="c10" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg">
-                  <div class="image-overlay"></div>
-                  <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Battle Of Surabaya</h1></div>
-                </div>
-                <div id="c11" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton">
-                  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg">
-                  <div class="image-overlay"></div>
-                  <div class="overlay"></div>
-                  <div class="judul-movies skeleton"><h1>Battle Of Surabaya</h1></div>
-                </div>
+      // Mengatur sumber iframe berdasarkan video yang dipilih
+      if (videoUrl) {
+         document.getElementById("videoPlayer").src = videoUrl;
+      }
 
-        </div>
-</section>
-
-<script src="main.js"></script>
-<script src="data_play_video.js"></script>
-</script>
+      // Mendapatkan parameter dari URL untuk menentukan animasi yang dipilih
+     
+   </script>
+   <script src="main.js"></script>
+   <script src="data_play_video.js"></script>
 </body>
-
 </html>

@@ -273,12 +273,12 @@
        
        
                      },
-       {
-               "episodeTitle": "Episode 5 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
+                    {
+                                   "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                                   "episodeUrl": "",
+       
+       
+                           },
                     {
                              "episodeTitle": "Jujutsu Kaisen S2 (soon)",
                              "episodeUrl": "",

@@ -2,7 +2,7 @@
         const data = {
             "bos": {
                 "title": "Battle Of Surabaya",
-                                "terjemah": "Pertempuran Surabaya",
+                                "terjemah": "Episode 1",
                 "rating": "6.4",
                 "studio": "MSV Pictures",
                 "rilis": "20 Agustus 2015",
@@ -13,7 +13,7 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Battle Of Surabaya (EP 1)", 
+       "episodeTitle": "Battle Of Surabaya ", 
        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP",
        
             },
@@ -24,7 +24,7 @@
  },
 "boboiboythemovie": {
                 "title": "Boboiboy The Movie",
-            "terjemah": "Boboiboy The Movie",
+            "terjemah": "Episode 1",
                 "rating": "4.8",
                 "studio": "Monsta",
                 "gendre1": "Action",
@@ -35,7 +35,7 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/2f/Boboiboy_The_Movies.jpg",
 "episodes": [
         {
-       "episodeTitle": "Boboiboy The Movie (EP1)", 
+       "episodeTitle": "Boboiboy The Movie", 
        "episodeUrl": "https://acefile.co/player/51182839",
 
                     
@@ -45,7 +45,7 @@
 
             "upinipinkerissiamangtunggal": {
                 "title": "Upin & Ipin : Keris Siamang Tunggal",
-            "terjemah": "Upin & Ipin",
+            "terjemah": "Episode 1",
                 "rating": "7.3",
                 "gendre1": "Comedy",
                 "gendre2": "Animasi",
@@ -56,7 +56,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OHumwVLkKLp5EI05xP20NbZJKDmhFAiUsQ&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Upin & Ipin : Keris Siamang Tinggal (EP1)", 
+       "episodeTitle": "Upin & Ipin : Keris Siamang Tunggal", 
        "episodeUrl": "https://www.youtube.com/embed/6tmIF7RlMA4?feature=shared",
 
                     
@@ -66,7 +66,7 @@
             },
             "onepiecemv14": {
                 "title": "One Piece Movie 14 : Stampede",
-                "terjemah": "One Piece",
+                "terjemah": "Episode 1",
                 "rating": "8.3",
                 "studio": "Toei Animation",
                 "rilis": "18 September 2019",
@@ -77,7 +77,7 @@
                 "bgimg": "https://nimegami.id/wp-content/uploads/2020/02/images-2020-02-22T112315.305.jpeg",
 "episodes": [
         {
-       "episodeTitle": "One Piece Movie 14 (EP1)", 
+       "episodeTitle": "One Piece Movie 14 ", 
        "episodeUrl": "https://acefile.co/player/19320220",
 
                     
@@ -98,7 +98,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2wCYBc9vA_7Ozookt3gIpnOqclHMAXrLI6GO4AaE6Pq-RIsX2y3j7NKR&s=10",
 "episodes": [
         {
-       "episodeTitle": "Episode 1", 
+       "episodeTitle": "Mashle Season 2", 
        "episodeUrl": "https://acefile.co/player/102743749",
 
                     
@@ -109,7 +109,7 @@
 
 "findingnemo": {
                 "title": "Finding Nemo",
-                "terjemah": "Finding Nemo",
+                "terjemah": "Episode 1",
                 "rating": "8.2",
                 "studio": "Walt Disney Pictures",
                 "rilis": "30 Mei 2003",
@@ -120,7 +120,7 @@
                 "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (maintenance)", 
+       "episodeTitle": "Finding Nemo (maintenance)", 
        "episodeUrl": "",
 
                     
@@ -132,7 +132,7 @@
 
 "lightyear": {
                 "title": "Lightyear",
-                "terjemah": "Lightyear",
+                "terjemah": "Episode 1",
                 "rating": "6.1",
                 "studio": "Walt Disney Pictures",
                 "rilis": "17 Juni 2022",
@@ -143,7 +143,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (proses upload)", 
+       "episodeTitle": "Lightyear (proses upload)", 
        "episodeUrl": "",
 
                     
@@ -153,7 +153,7 @@
             },
 "jujutsukaisenseason2": {
                 "title": "Jujutsu Kaisen Season 2",
-                "terjemah": "Jujutsu Kaisen",
+                "terjemah": "Episode 1-23",
                 "rating": "8.6",
                 "studio": "MAPPA",
                 "rilis": "6 Juli 2023",
@@ -166,151 +166,150 @@
         {
                 
                 
-       "episodeTitle": "Episode 23 (coming soon)",
+       "episodeTitle": "Jujutsu Kaisen S2 (soon)",
        "episodeUrl": "",
 
 
        },
        {
-       "episodeTitle": "Episode 22 (coming soon)",
+       "episodeTitle": "Jujutsu Kaisen S2 (soon)",
        "episodeUrl": "",
 
 
        },
        {
-       "episodeTitle": "Episode 21 (coming soon)",
+       "episodeTitle": "Jujutsu Kaisen S2 (soon)",
        "episodeUrl": "",
 
 
        },
-       {
-               "episodeTitle": "Episode 20 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 19 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 18 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 17 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 16 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 15 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 14 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 13 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 12 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 11 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 10 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 9 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 8 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 7 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 6 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
+              {
+                      "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                      "episodeUrl": "",
+       
+       
+              },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                    {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },,
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+                     {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
        {
                "episodeTitle": "Episode 5 (coming soon)",
                "episodeUrl": "",
 
 
        },
-       {
-               "episodeTitle": "Episode 4 (coming soon)",
-               "episodeUrl": "",
+                    {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
 
-
-       },
-       {
-               "episodeTitle": "Episode 3 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-       {
-               "episodeTitle": "Episode 2 (coming soon)",
-               "episodeUrl": "",
-
-
-       },
-
-{
-
-       "episodeTitle": "Episode 1 (coming soon)", 
-       "episodeUrl": "",
-
-                    
-       }
+              {
+                             "episodeTitle": "Jujutsu Kaisen S2 (soon)",
+                             "episodeUrl": "",
+       
+       
+                     },
         ]
                 
             },
 "cyberpunkedgerunners": {
                 "title": "Cyberpunk: Edgerunners",
-                "terjemah": "Cyberpunk",
+                "terjemah": "Episode 1-10",
                 "rating": "8.3",
                 "studio": "CD Projekt",
                 "rilis": "13 September 2022",
@@ -321,61 +320,61 @@
                 "bgimg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx1rOlEyrHkLG8xRwYH58jZsNzRJlpnHXWND_rsNSLsOHORwDW",
 "episodes": [
         {
-       "episodeTitle": "Episode 10 (coming soon)", 
+       "episodeTitle": "Cyberpunk EP 10 (soon)", 
        "episodeUrl": "",
 
                     
        },
        {
-               "episodeTitle": "Episode 9 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 9 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 8 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 8 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 7 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 7 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 6 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 6 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 5 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 5 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 4 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 4 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 3 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 3 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 2 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 2 (soon)",
                "episodeUrl": "",
        
        
        },
        {
-               "episodeTitle": "Episode 1 (coming soon)",
+               "episodeTitle": "Cyberpunk EP 1 (soon)",
                "episodeUrl": "",
        
        
@@ -385,7 +384,7 @@
             },
 "cars3": {
                 "title": "Cars 3",
-                "terjemah": "Cars",
+                "terjemah": "Episode 1",
                 "rating": "6.7",
                 "studio": "Walt Disney Pictures",
                 "rilis": "16 Agustus 2016",
@@ -396,7 +395,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQ4vK2-KysVXNtSOuqELwVhVXDjLdFqRPP07QJGoS9638KAI2ISc5J9Pb&s=10",
 "episodes": [
         {
-       "episodeTitle": "Cars 3 (EP1)", 
+       "episodeTitle": "Cars 3", 
        "episodeUrl": "https://drive.google.com/file/d/1ntPxX9MJ7C4EhIwwSLQz6aTirQUrvClK/preview",
 
                     
@@ -406,7 +405,7 @@
             },
 "toystory4": {
                 "title": "Toy Story 4",
-                "terjemah": "Toy Story",
+                "terjemah": "Episode 1",
                 "rating": "7.7",
                 "studio": "Walt Disney Pictures",
                 "rilis": "21 Juni 2019",
@@ -417,7 +416,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcr3syHWiZWKbbDU0KS6G7fbmLBvi3tLmJw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Toy Story 4 (EP1)", 
+       "episodeTitle": "Toy Story 4", 
        "episodeUrl": "https://drive.google.com/file/d/17jbBgaU09AFMwN6FP-5bk2T6f_gw3Y_z/preview",
 
                     
@@ -427,7 +426,7 @@
             },
 "bighero6": {
                 "title": "Big Hero 6",
-                "terjemah": "Big Hero",
+                "terjemah": "Episode 1",
                 "rating": "7.8",
                 "studio": "Walt Disney Pictures",
                 "rilis": "23 Oktober 2014",
@@ -438,7 +437,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Big Hero 6 (Coming Soon)", 
+       "episodeTitle": "Big Hero 6 (maintenance)", 
        "episodeUrl": "https://acefile.co/player/103555356",
 
                     
@@ -448,7 +447,7 @@
             },
 "theincredibles2": {
                 "title": "The Incredibles 2",
-                "terjemah": "The Incredibles",
+                "terjemah": "Episode 1",
                 "rating": "7.5",
                 "studio": "Walt Disney Pictures",
                 "rilis": "15 Juni 2018",
@@ -459,7 +458,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (proses upload)", 
+       "episodeTitle": "The Incredibles (soon)", 
        "episodeUrl": "",
 
                     
@@ -469,7 +468,7 @@
             },
 "bolt": {
                 "title": "Bolt",
-                "terjemah": "Bolt",
+                "terjemah": "Episode 1",
                 "rating": "6.8",
                 "studio": "Walt Disney Pictures",
                 "rilis": "3 Desember 2008",
@@ -480,7 +479,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Episode 1 (proses upload)", 
+       "episodeTitle": "Bolt (soon)", 
        "episodeUrl": "",
 
                     

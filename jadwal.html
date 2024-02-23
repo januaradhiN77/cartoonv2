@@ -13,14 +13,105 @@
   <title>Cartoonn</title>
   
   <!-- HTML -->
+  <style>
+ .search-wrapper {
+    display: flex;
+    align-items: center;
+    width: 290px;
+   
+    border-radius: 0px;
+    
+    padding: 2px;
+  }
+
+  .search-icon {
+    
+    font-size: 45px;
+    color: #FFC000;
+    margin-right: 10px;
+  }
+
+  .search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: #2A2A2AAB; 
+    color: white;
+    padding: 15px 15px;
+    border-radius: 10px 10px 10px 0px;
+    font-size: 16px;
+  }
+  </style>
 
   <!-- Custom Styles -->
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-<section class="jadwal-container" style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-        <span style="font-size: 20px;font-family: 'Zen Maru Gothic'; color: white;">Page sedang dalam pengembangan</span>
+        <section class="search-container" style="position: fixed; z-index: 99999; top:0; left:0;background: #090909; width: 100%; height: 80px; justify-content: center;">
+
+
+<div class="search-wrapper">
+  <span class="search-icon mdi mdi-magnify"></span>
+  <input type="text" id="searchInput" class="search-input" placeholder="Cari jadwal animasi">
+</div>
+ 
+
+                    
+        </section>
+<section style="width: 100%; height: auto; display: flex; flex-direction: column;; justify-content: left; gap: 20px; margin-top: 85px;">
+              <div class="header-movies-text">
+         <h1 style="font-size: 30px;">Jadwal Upload</h1>
+         <span style="font-size: 13px;">NOTE : Animasi belum ditentukan kapan dan hari apa di upload</span>
+      </div>
+        <div class="search-container">
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=theincredibles2')">
+                        
+<div class="data-item">
+                         <div id="uikst" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton"style="width: 116px; height: 199px;">
+                  <img  style="width: 116px; height: 190px;"src="https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg">
+                  <div class="image-overlay"></div>
+                  <div class="overlay"></div>
+                  <div class="judul-movies skeleton"><h1>The Incredibles 2</h1></div>
+                         </div>
+                </div>        <div style="width: 100%; height: 20px;"></div></button>
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=bolt')"><div class="data-item"><div id="toyst4" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton" style="width: 116px; height: 199px;">
+                  <img style="width: 116px; height: 190px;"src="https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg">
+                  <div class="image-overlay"></div>
+                  <div class="overlay"></div>
+                  <div class="judul-movies skeleton"><h1>Bolt</h1></div></div>
+                </div>        <div style="width: 100%; height: 20px;"></div></button>
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=lightyear')"><div class="data-item"><div id="bghro6" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton"style="width: 116px; height: 199px;">
+                  <img style="width: 116px; height: 190px;"src="https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg">
+                  <div class="image-overlay"></div>
+                  <div class="overlay"></div>
+                  <div class="judul-movies skeleton"><h1>Lightyear</h1></div></div>
+                </div>        <div style="width: 100%; height: 20px;"></div></button>
+        
+        
+
+        
+
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=jujutsukaisenseason2')"><div class="data-item"><div id="btm" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)"class="movies-box skeleton" style="width: 116px; height: 199px;">
+                        
+                  <img style="width: 116px; height: 190px;" src="https://otakupoi.org/assets/oploverz/covers/jujutsu-kaisen-s2.jpg">
+                  <div class="image-overlay"></div>
+                       <div class="overlay"></div>
+                  <div class="judul-movies skeleton"><h1>Jujutsu Kaisen Season 2</h1></div></div>
+
+                </div>       <div style="width: 100%; height: 20px;"></div></button>
+                <button class="buttongoweb" onclick="goToWebsite('videos_detail.html?animation=cyberpunkedgerunners')"><div class="data-item"><div id="fn" ontouchstart="addOverlay(event)" ontouchend="removeOverlay(event)" ontouchcancel="removeOverlay(event)" class="movies-box skeleton"style="width: 116px; height: 199px;">
+                  <img style="width: 116px; height: 190px;" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx1rOlEyrHkLG8xRwYH58jZsNzRJlpnHXWND_rsNSLsOHORwDW">
+                  <div class="image-overlay"></div>
+                       <div class="overlay"></div>
+                  <div class="judul-movies skeleton"><h1>Cyberpunk: Edgerunners</h1></div></div>
+                </div>        <div style="width: 100%; height: 20px;"></div></button>
+
+
+</div>
+
+</div>
+
 </section>
 
 <script src="main.js"></script>

@@ -120,8 +120,8 @@
                 "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
 "episodes": [
         {
-       "episodeTitle": "Finding Nemo (maintenance)", 
-       "episodeUrl": "",
+       "episodeTitle": "Finding Nemo", 
+       "episodeUrl": "https://acefile.co/player/103560909/finding-nemo-2003-720p-bluray-drakor-in-mp4",
 
                     
        }

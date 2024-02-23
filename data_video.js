@@ -458,7 +458,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg",
 "episodes": [
         {
-       "episodeTitle": "The Incredibles (soon)", 
+       "episodeTitle": "The Incredibles 2 (soon)", 
        "episodeUrl": "",
 
                     

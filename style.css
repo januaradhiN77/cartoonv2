@@ -396,6 +396,23 @@ html {
                 color: white;
                 
         }
+        .sinopsis-vplayer{
+                margin-top: 40px;
+                display: flex;
+                flex-direction: column;
+        }
+                .sinopsis-vplayer span{
+
+                font-family: 'Inter';
+
+                letter-spacing: 0.20px;
+                color: white;
+                font-size: 17px;
+        }
+        .sinopsis-vplayer h1 {
+                font-family: 'Zen Maru Gothic';
+                font-size: 35px;
+        }
         .sinopsis span{
                 font-family: 'Inter';
                 letter-spacing: 0.20px;

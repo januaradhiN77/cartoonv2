@@ -505,11 +505,11 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg",
 "episodes": [
         {
-       "episodeTitle": "(Coming Soon)", 
+       "episodeTitle": "Tonton (New)", 
        "episodeJudul": "The Incredibles 2",
                 "description": "Bob Parr (Mr. Incredible) harus merawat ketiga anaknya, sementara Helen (Elastigirl) pergi menyelamatkan dunia.",
 
-       "episodeUrl": "",
+       "episodeUrl": "https://acefile.co/player/95131020",
 
                     
        }

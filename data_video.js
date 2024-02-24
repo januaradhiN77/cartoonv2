@@ -598,10 +598,10 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/3/3c/Stand_by_Me_Doraemon_2.jpg?20230316055948",
 "episodes": [
         {
-       "episodeTitle": "Tonton (Coming Soon)", 
+       "episodeTitle": "Tonton", 
        "episodeJudul": "Stand by Me Doraemon 2",
 "description": "Suatu hari Nobita menemukan boneka beruang yang ditambal jahit tangan oleh nenek tercinta. Hal tersebut memicu kenangan mengharukan untuknya dan menanyakan kepada Doraemon apakah mereka dapat menggunakan mesin waktu untuk mengunjungi Nenek di masa lampau.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/10pqXo58qrGnUsWDOD1MeX-C-PxMMt_y2/view?usp=drivesdk",
 
                     
        }

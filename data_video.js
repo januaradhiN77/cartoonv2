@@ -487,7 +487,27 @@
         ]
 },
             
+"Transformersdarkofthemoon": {
+                "title": "Transformers: Dark of the Moon",
+                "terjemah": "Episode 1",
+                "rating": "6.2",
+                "studio": "Paramount Pictures",
+                "rilis": "5 Agustus 2015",
+                "gendre1": "Laga",
+                "gendre2": "Animasi",
+                "gendre3": "Adventure",
+                "description": "Sam Witwicky dan Autobots harus segera mengungkap rahasia pesawat ruang angkasa Cybertronian yang tersembunyi di bulan sebelum Decepticons bisa menggunakannya untuk rencana jahat mereka.",
+                "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaKP2tA8MWNADnNwnRHfJrLTLj_gvjWEAAw&usqp=CAU",
+"episodes": [
+        {
+       "episodeTitle": "Transformers: DOTM (soon)", 
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

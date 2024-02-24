@@ -487,7 +487,7 @@
         ]
 },
             
-"Transformersdarkofthemoon": {
+"transformersdarkofthemoon": {
                 "title": "Transformers: Dark of the Moon",
                 "terjemah": "Episode 1",
                 "rating": "6.2",

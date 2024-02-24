@@ -393,7 +393,7 @@ html {
         }
         .sinopsis{
                 margin-top: 40px;
-                
+                color: white;
                 
         }
         .sinopsis span{
@@ -480,9 +480,6 @@ background-color: transparent;
 .judul-v-fr span{
         margin-top: 5px;
         font-size: 20px;
-}
-.button-nonton span{
-                        
 }
 .sinopsis h1{
         font-family: 'Zen Maru Gothic';

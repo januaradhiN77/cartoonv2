@@ -13,7 +13,9 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/thumb/a/af/Battle_of_Surabaya.jpeg/444px-Battle_of_Surabaya.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Battle Of Surabaya ", 
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Battle Of Surabaya",
+                "description": "menceritakan tentang petualangan Musa. Ia adalah Seorang remaja yang bekerja sebagai tukang semir sepatu yang menjadi kurir bagi perjuangan arek-arek Suroboyo pada pertempuran 10 November 1945.<br><br> Cerita diawali dengan visualisasi dahsyat dari pengeboman kota Hiroshima oleh Sekutu yang menandakan menyerahnya Jepang. <br><br>“Indonesia merdeka, itu yang kudengar di RRI, Jepang menyerah!”, kata Musa. Tetapi langit Surabaya kembali merah dengan peristiwa Insiden Bendera dan kedatangan Sekutu yang ditumpangi oleh Belanda.",
        "episodeUrl": "https://pixeldrain.com/api/file/jLXe89mP",
        
             },
@@ -35,7 +37,10 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/2f/Boboiboy_The_Movies.jpg",
 "episodes": [
         {
-       "episodeTitle": "Boboiboy The Movie", 
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Boboiboy The Movie",
+                "description": "Ochobot, si robot teman BoBoiBoy, telah diculik oleh sebuah komplotan pemburu harta karun asing berjulukan The Tengkotak, dan akan mereka gunakan untuk melacak lokasi Sfera Kuasa kuno yang bersembunyi di Bumi.",
+
        "episodeUrl": "https://acefile.co/player/51182839",
 
                     
@@ -56,7 +61,9 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8OHumwVLkKLp5EI05xP20NbZJKDmhFAiUsQ&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Upin & Ipin : Keris Siamang Tunggal", 
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Upin & Ipin : Keris Siamang Tunggal",
+                "description": "Upin & Ipin: Keris Siamang Tunggal adalah film petualangan dan fantasi terbaru dari Upin & Ipin dan keenam sahabatnya: Ehsan, Fizi, Mail, Jarjit, Mei Mei, dan Susanti dalam menyelamatkan kerajaan fantasi Inderaloka dari ancaman musuhnya, Raja Bersiong yang jahat. Cerita bermula saat Upin, Ipin, dan para sahabatnya tak sengaja menemukan keris mistis di gudang Tok Dalang yang ternyata membuka portal menuju kerajaan Inderaloka.",
        "episodeUrl": "https://www.youtube.com/embed/6tmIF7RlMA4?feature=shared",
 
                     
@@ -77,7 +84,10 @@
                 "bgimg": "https://nimegami.id/wp-content/uploads/2020/02/images-2020-02-22T112315.305.jpeg",
 "episodes": [
         {
-       "episodeTitle": "One Piece Movie 14 ", 
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "One Piece Movie 14",
+                "description": "Eksposisi perompak terhebat di dunia, oleh para perompak, untuk para perompak – Festival Perompak. Luffy dan kru Topi Jerami lainnya menerima undangan dari tuan rumahnya Buena Festa yang dikenal sebagai Master of Festivities. Mereka tiba untuk menemukan tempat yang penuh dengan paviliun glamor dan banyak perompak termasuk yang dari Generasi Terburuk. Tempatnya listrik.",
+
        "episodeUrl": "https://acefile.co/player/19320220",
 
                     
@@ -98,7 +108,9 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2wCYBc9vA_7Ozookt3gIpnOqclHMAXrLI6GO4AaE6Pq-RIsX2y3j7NKR&s=10",
 "episodes": [
         {
-       "episodeTitle": "Mashle Season 2", 
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Mashle Season 2",
+                "description": "menceritakan seorang anak bernama Mash Burnedead yang hidup di dunia yang penuh dengan sihir.<br><br>Dalam dunia sihir tersebut, seorang yang tidak memiliki sihir akan dianggap sebagai aib dan harus diasingkan.<br><br>Tokoh utama Mash Burnedead adalah salah satu manusia yang hidup dengan tidak memiliki sihir apapun.<br><br>Dibuang oleh keluarganya dan ditemukan seorang kakek, kemudia diadopsi dan hidup ditengah hutan.",
        "episodeUrl": "https://acefile.co/player/102743749",
 
                     
@@ -120,7 +132,10 @@
                 "bgimg": "https://static.republika.co.id/uploads/member/images/news/pu2ugznury.jpg",
 "episodes": [
         {
-       "episodeTitle": "Finding Nemo", 
+       "episodeTitle": "Tonton", 
+              "episodeJudul": "Finding Nemo",
+                "description": "Dua ikan badut bernama Marlin dan istrinya Coral, mengagumi rumah baru mereka di Great Barrier Reef dan kopling mereka telur ketika barracuda menyerang, mengetuk Marlin sadar. Dia bangun untuk mengetahui bahwa Coral dan semua kecuali satu dari telur telah dimakan oleh barracuda. Marlin namakan telur terakhir ini Nemo, nama yang Coral sukai.",
+
        "episodeUrl": "https://acefile.co/player/103560909/finding-nemo-2003-720p-bluray-drakor-in-mp4",
 
                     
@@ -143,7 +158,10 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Lightyear (soon)", 
+       "episodeTitle": "Tonton (Coming Soon)", 
+              "episodeJudul": "Lightyear",
+                "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
+
        "episodeUrl": "",
 
                     
@@ -319,66 +337,86 @@
                 "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
                 "bgimg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx1rOlEyrHkLG8xRwYH58jZsNzRJlpnHXWND_rsNSLsOHORwDW",
 "episodes": [
-        {
-       "episodeTitle": "Cyberpunk EP 10 (soon)", 
-       "episodeUrl": "",
+       {
+                      "episodeTitle": "Episode 10 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+       
+       
+              },
+       {
+               "episodeTitle": "Episode 9 (Coming Soon)",
+               "episodeUrl": "",
+       "episodeJudul": "Cyberpunk EP 9 ",
+"description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
 
-                    
-       },
-       {
-               "episodeTitle": "Cyberpunk EP 9 (soon)",
-               "episodeUrl": "",
-       
        
        },
        {
-               "episodeTitle": "Cyberpunk EP 8 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 8 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
-       },
+              },
        {
-               "episodeTitle": "Cyberpunk EP 7 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 7 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
-       },
+              },
        {
-               "episodeTitle": "Cyberpunk EP 6 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 6 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
-       },
+              },
        {
-               "episodeTitle": "Cyberpunk EP 5 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 5 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
-       },
+              },
        {
-               "episodeTitle": "Cyberpunk EP 4 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 4 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
+
        
-       
-       },
+              },
        {
-               "episodeTitle": "Cyberpunk EP 3 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 3 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
-       },
+              },
        {
-               "episodeTitle": "Cyberpunk EP 2 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 2 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
-       },
+              },
        {
-               "episodeTitle": "Cyberpunk EP 1 (soon)",
-               "episodeUrl": "",
+                      "episodeTitle": "Episode 1 (Coming Soon)",
+                      "episodeUrl": "",
+                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
-       },
+              },
         ]
                 
             },
@@ -395,7 +433,10 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQ4vK2-KysVXNtSOuqELwVhVXDjLdFqRPP07QJGoS9638KAI2ISc5J9Pb&s=10",
 "episodes": [
         {
-       "episodeTitle": "Cars 3", 
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Cars 3",
+                "description": "Reputasi pebalap legendaris Lightning McQueen mulai tersaingi dengan kemunculan pebalap-pebalap muda. Bersama rekannya, Cruz Ramirez, McQueen berusaha mempertahankan gelarnya sebagai raja sirkuit.",
+
        "episodeUrl": "https://drive.google.com/file/d/1ntPxX9MJ7C4EhIwwSLQz6aTirQUrvClK/preview",
 
                     
@@ -416,7 +457,10 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThcr3syHWiZWKbbDU0KS6G7fbmLBvi3tLmJw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Toy Story 4", 
+       "episodeTitle": "Tonton", 
+       "episodeJudul": "Toy Story 4",
+                "description": "Woody selalu merasa percaya diri akan posisinya di dunia, dan prioritasnya adalah menjaga anaknya, baik itu Andy atau Bonnie. Namun ketika Bonnie menambahkan sebuah mainan baru bernama Forky dalam kamar mainannya, sebuah pengembaraan bersama teman-teman lama dan baru akan membawa Woody untuk menyaksikan betapa besarnya dunia ini bagi sebuah mainan seperti dirinya.",
+
        "episodeUrl": "https://drive.google.com/file/d/17jbBgaU09AFMwN6FP-5bk2T6f_gw3Y_z/preview",
 
                     
@@ -437,7 +481,10 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bighero6_19753_20bd6206.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Big Hero 6 ", 
+       "episodeTitle": "Tonton ", 
+       "episodeJudul": "Big Hero 6",
+                "description": "Hiro, bocah genius, harus melewati tragedi kematian kakaknya. Kini, bersama teman-temannya yang ia ubah menjadi suprhero berteknologi tinggi, dan Baymax, robot tiup, ia harus menyelamatkan kota.",
+
        "episodeUrl": "https://acefile.co/player/103558787",
 
                     
@@ -458,7 +505,10 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg",
 "episodes": [
         {
-       "episodeTitle": "The Incredibles 2 (soon)", 
+       "episodeTitle": "(Coming Soon)", 
+       "episodeJudul": "The Incredibles 2",
+                "description": "Bob Parr (Mr. Incredible) harus merawat ketiga anaknya, sementara Helen (Elastigirl) pergi menyelamatkan dunia.",
+
        "episodeUrl": "",
 
                     
@@ -479,9 +529,11 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Bolt (soon)", 
-       "episodeUrl": "",
+       "episodeTitle": "(Coming Soon)", 
+       "episodeJudul": "Bolt",
+                       "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
 
+       "episodeUrl": "",
                     
        }
         ]
@@ -500,7 +552,9 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaKP2tA8MWNADnNwnRHfJrLTLj_gvjWEAAw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Transformers: DOTM (proses upload)", 
+       "episodeTitle": "Tonton (proses upload)", 
+       "episodeJudul": "Transformers: Dark of the Moon",
+"description": "Menceritakan tentang Sam Witwicky dan Autobots harus segera mengungkap rahasia pesawat ruang angkasa Cybertronian yang tersembunyi di bulan sebelum Decepticons bisa menggunakannya untuk rencana jahat mereka.",
        "episodeUrl": "",
 
                     
@@ -508,7 +562,6 @@
         ]
                 
             },
-
 
 
 
@@ -587,8 +640,9 @@ iconElement.style.fontSize = "30px";
    // window.location.href = "video_testing.html?vidio=" + encodeURIComponent(episode.episodeUrl);
    episodeButton.addEventListener("click", function() {
   const episodeUrl = encodeURIComponent(episode.episodeUrl);
-  const episodeTitle = encodeURIComponent(episode.episodeTitle);
-  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeTitle=${episodeTitle}`;
+  const episodeJudul = encodeURIComponent(episode.episodeJudul);
+  const description = encodeURIComponent(episode.description);
+  window.location.href = `video_testing.html?episodeUrl=${episodeUrl}&episodeJudul=${episodeJudul}&description=${description}`;
 });
 //  });
 

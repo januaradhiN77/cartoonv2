@@ -562,8 +562,29 @@
         ]
                 
             },
+"thesupermariobrosmovie": {
+        "title": "The Super Mario Bros. Movie",
+        "terjemah": "Episode 1",
+        "rating": "7.2",
+        "studio": "Universal Pictures",
+        "rilis": "5 April 2023",
+        "gendre1": "Animasi",
+        "gendre2": "Laga",
+        "gendre3": "Comedy",
+        "description": "Kisah Mario (Chris Pratt) si tukang ledeng yang melakukan perjalanan heroik untuk menyelamatkan saudaranya, Luigi (Charlie Day). Di perjalanan, Mario tidak sendiri, ia dibantu oleh Putri Peach (Anya Taylor-Joy) dan prajurit kerajaan jamur.",
+        "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROONlJDncg8rbgNqSb2BrbSE6zPPRukuIhEA&usqp=CAU",
+        "episodes": [
+                {
+                        "episodeTitle": "Tonton (Coming Soon)",
+                        "episodeJudul": "The Super Mario Bros. Movie",
+                        "description": "Kisah Mario (Chris Pratt) si tukang ledeng yang melakukan perjalanan heroik untuk menyelamatkan saudaranya, Luigi (Charlie Day). Di perjalanan, Mario tidak sendiri, ia dibantu oleh Putri Peach (Anya Taylor-Joy) dan prajurit kerajaan jamur.",
+                        "episodeUrl": "",
 
 
+       }
+        ]
+
+},
 
 
 

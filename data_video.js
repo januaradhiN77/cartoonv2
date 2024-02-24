@@ -552,10 +552,10 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaKP2tA8MWNADnNwnRHfJrLTLj_gvjWEAAw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Tonton (proses upload)", 
+       "episodeTitle": "Tonton (New)", 
        "episodeJudul": "Transformers: Dark of the Moon",
 "description": "Menceritakan tentang Sam Witwicky dan Autobots harus segera mengungkap rahasia pesawat ruang angkasa Cybertronian yang tersembunyi di bulan sebelum Decepticons bisa menggunakannya untuk rencana jahat mereka.",
-       "episodeUrl": "",
+       "episodeUrl": "https://acefile.co/player/43028505",
 
                     
        }

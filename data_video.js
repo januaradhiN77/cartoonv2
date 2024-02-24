@@ -575,10 +575,10 @@
         "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROONlJDncg8rbgNqSb2BrbSE6zPPRukuIhEA&usqp=CAU",
         "episodes": [
                 {
-                        "episodeTitle": "Tonton (Coming Soon)",
+                        "episodeTitle": "Tonton",
                         "episodeJudul": "The Super Mario Bros. Movie",
                         "description": "Kisah Mario (Chris Pratt) si tukang ledeng yang melakukan perjalanan heroik untuk menyelamatkan saudaranya, Luigi (Charlie Day). Di perjalanan, Mario tidak sendiri, ia dibantu oleh Putri Peach (Anya Taylor-Joy) dan prajurit kerajaan jamur.",
-                        "episodeUrl": "",
+                        "episodeUrl": "https://drive.google.com/file/d/1pzaJVfzaBfsjx9rk7sE3iTp94bnYLi1-/preview",
 
 
        }

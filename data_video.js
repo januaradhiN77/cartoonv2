@@ -505,7 +505,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/image_8eba0e1a.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Tonton (New)", 
+       "episodeTitle": "Tonton", 
        "episodeJudul": "The Incredibles 2",
                 "description": "Bob Parr (Mr. Incredible) harus merawat ketiga anaknya, sementara Helen (Elastigirl) pergi menyelamatkan dunia.",
 
@@ -529,7 +529,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Tonton (New)", 
+       "episodeTitle": "Tonton", 
        "episodeJudul": "Bolt",
                        "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
 
@@ -552,7 +552,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaKP2tA8MWNADnNwnRHfJrLTLj_gvjWEAAw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Tonton (New)", 
+       "episodeTitle": "Tonton", 
        "episodeJudul": "Transformers: Dark of the Moon",
 "description": "Menceritakan tentang Sam Witwicky dan Autobots harus segera mengungkap rahasia pesawat ruang angkasa Cybertronian yang tersembunyi di bulan sebelum Decepticons bisa menggunakannya untuk rencana jahat mereka.",
        "episodeUrl": "https://acefile.co/player/43028505",

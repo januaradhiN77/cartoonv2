@@ -143,7 +143,7 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Lightyear (proses upload)", 
+       "episodeTitle": "Lightyear (soon)", 
        "episodeUrl": "",
 
                     
@@ -500,7 +500,7 @@
                 "bgimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaaKP2tA8MWNADnNwnRHfJrLTLj_gvjWEAAw&usqp=CAU",
 "episodes": [
         {
-       "episodeTitle": "Transformers: DOTM (soon)", 
+       "episodeTitle": "Transformers: DOTM (proses upload)", 
        "episodeUrl": "",
 
                     

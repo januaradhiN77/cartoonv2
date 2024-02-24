@@ -529,11 +529,11 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_bolt_19881_2a6c5fc2.jpeg",
 "episodes": [
         {
-       "episodeTitle": "(Coming Soon)", 
+       "episodeTitle": "Tonton (New)", 
        "episodeJudul": "Bolt",
                        "description": "Bolt, seekor anjing bintang di sebuah acara televisi terkenal, dikisahkan memiliki kekuatan super. Dia percaya bahwa kekuatannya memang nyata, dan ia pun bertekad untuk memulai sebuah misi yang mulia.",
 
-       "episodeUrl": "",
+       "episodeUrl": "https://acefile.co/player/103582381",
                     
        }
         ]

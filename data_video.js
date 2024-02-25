@@ -589,7 +589,7 @@
                 "title": "Stand by Me Doraemon 2",
                 "terjemah": "Episode 1",
                 "rating": "7.5",
-                "studio": "Shin-El Animation",
+                "studio": "Shin-Ei Animation",
                 "rilis": "19 Februari 2021",
                 "gendre1": "Animasi",
                 "gendre2": "Comedy",
@@ -608,7 +608,29 @@
         ]
                 
             },
+"doraemonmovie42": {
+                "title": "Doraemon Movie 42: Nobita to Sora no Utopia",
+                "terjemah": "Episode 1",
+                "rating": "7.2",
+                "studio": "Shin-Ei Animation",
+                "rilis": "3 Maret 2023",
+                "gendre1": "Adventure",
+                "gendre2": "Comedy",
+                "gendre3": "Sci-Fi",
+                "description": "Nobita to Sora no Utopia bercerita Doraemon, Nobita, dan teman-temannya pergi mencari Utopia, sebuah negeri sempurna di langit tempat semua orang hidup bahagia, menggunakan pesawat yang memiliki fungsi time warp.",
+                "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/27/Doraemon-_Nobita%27s_Sky_Utopia.jpg?20240208075258",
+"episodes": [
+        {
+       "episodeTitle": "Tonton (Coming Soon)", 
+       "episodeJudul": "Doraemon Movie 42: Nobita to Sora no Utopia",
+"description": "Nobita to Sora no Utopia bercerita Doraemon, Nobita, dan teman-temannya pergi mencari Utopia, sebuah negeri sempurna di langit tempat semua orang hidup bahagia, menggunakan pesawat yang memiliki fungsi time warp.",
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

@@ -338,7 +338,7 @@
                 "bgimg": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTx1rOlEyrHkLG8xRwYH58jZsNzRJlpnHXWND_rsNSLsOHORwDW",
 "episodes": [
        {
-                      "episodeTitle": "Episode 10 (Coming Soon)",
+                      "episodeTitle": "Episode 10",
                       "episodeUrl": "https://drive.google.com/file/d/1hlE8_Tha-eYCXeMgDM9tCkVDwkdA5J3T/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 10) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
@@ -346,71 +346,71 @@
        
               },
        {
-               "episodeTitle": "Episode 9 (Coming Soon)",
-               "episodeUrl": "",
-       "episodeJudul": "Cyberpunk EP 9 ",
+               "episodeTitle": "Episode 9",
+               "episodeUrl": "https://drive.google.com/file/d/1gh4wEolxCsw9oez8teNzoQ_ntxl_wxPS/preview",
+       "episodeJudul": "Cyberpunk: Edgerunners (EP 9)",
 "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
 
        
        },
        {
-                      "episodeTitle": "Episode 8 (Coming Soon)",
-                      "episodeUrl": "",
-                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "episodeTitle": "Episode 8",
+                      "episodeUrl": "https://drive.google.com/file/d/1ijB3ixXgRAa2XAYJEarwF6LTJsgjFXde/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 8)",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
               },
        {
-                      "episodeTitle": "Episode 7 (Coming Soon)",
-                      "episodeUrl": "",
-                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "episodeTitle": "Episode 7",
+                      "episodeUrl": "https://drive.google.com/file/d/1gm_WLZYcnC4piDtqau356q0i6fw4m6Ev/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 7) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
               },
        {
-                      "episodeTitle": "Episode 6 (Coming Soon)",
-                      "episodeUrl": "",
-                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "episodeTitle": "Episode 6",
+                      "episodeUrl": "https://drive.google.com/file/d/1gO3-6srBEFbu96L_aJ-XElxaEfYd8TFb/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 6) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
               },
        {
-                      "episodeTitle": "Episode 5 (Coming Soon)",
-                      "episodeUrl": "",
-                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "episodeTitle": "Episode 5",
+                      "episodeUrl": "https://drive.google.com/file/d/1iwN0zweAOxgxMsmdgwVPBDaEydBRp-tf/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 5) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
               },
        {
-                      "episodeTitle": "Episode 4 (Coming Soon)",
-                      "episodeUrl": "",
-                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "episodeTitle": "Episode 4",
+                      "episodeUrl": "https://drive.google.com/file/d/1gNBr88wkWzfwGHG1E1g2DWmRpvtuKHja/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 4) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
 
        
               },
        {
-                      "episodeTitle": "Episode 3 (Coming Soon)",
-                      "episodeUrl": "",
-                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "episodeTitle": "Episode 3",
+                      "episodeUrl": "https://drive.google.com/file/d/1ia9_jvBQdomJnxrXNaLf3ZUtcy1Rfpmd/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 3) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
               },
        {
-                      "episodeTitle": "Episode 2 (Coming Soon)",
-                      "episodeUrl": "",
-                      "episodeJudul": "Cyberpunk EP 9 ",
+                      "episodeTitle": "Episode 2",
+                      "episodeUrl": "https://drive.google.com/file/d/1gLGuG-M9g4JSf1tg1xKiSsz8Eibp0kA0/preview",
+                      "episodeJudul": "Cyberpunk: Edgerunners (EP 2) ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        
        
               },
        {
-                      "episodeTitle": "Episode 1 (Coming Soon)",
+                      "episodeTitle": "Episode 1",
                       "episodeUrl": "https://drive.google.com/file/d/1gI6Qgd9hmkZIWsss98ohTWST8u8CzoFk/preview",
                       "episodeJudul": "Cyberpunk: Edgerunners (EP 1)  ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",

@@ -339,7 +339,7 @@
 "episodes": [
        {
                       "episodeTitle": "Episode 10 (Coming Soon)",
-                      "episodeUrl": "",
+                      "episodeUrl": "https://drive.google.com/file/d/1gI6Qgd9hmkZIWsss98ohTWST8u8CzoFk/preview",
                       "episodeJudul": "Cyberpunk EP 9 ",
                       "description": "menceritakan seorang anak bernama David Martinez yang berusaha bertahan hidup di tengah-tengah kota masa depan. Kota tersebut terkenal dengan tindak korupsi serta obsesi atas teknologi dan modifikasi terhadap tubuh.<br><br>Demi keberlangsungan hidupnya, David memutuskan untuk menjadi seorang edgerunner, yakni penjahat bayaran yang juga dikenal dengan sebutan 'Cyberpunk'.",
        

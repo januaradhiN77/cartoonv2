@@ -158,11 +158,11 @@
                 "bgimg": "https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg",
 "episodes": [
         {
-       "episodeTitle": "Tonton (Coming Soon)", 
+       "episodeTitle": "Tonton", 
               "episodeJudul": "Lightyear",
                 "description": "Menceritakan tentang Buzz Lightyear, seorang Space Ranger legendaris, terdampar di planet yang jauh bersama teman-temannya dan harus menemukan cara untuk pulang ke rumah. Buzz dan teman-temannya harus menghadapi berbagai tantangan, termasuk robot yang jahat dan lingkungan yang berbahaya.",
 
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1js9RL9N1xrifob2yEoDgzYGUOjcpey8K/preview",
 
                     
        }

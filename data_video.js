@@ -621,10 +621,10 @@
                 "bgimg": "https://upload.wikimedia.org/wikipedia/id/2/27/Doraemon-_Nobita%27s_Sky_Utopia.jpg?20240208075258",
 "episodes": [
         {
-       "episodeTitle": "Tonton (Coming Soon)", 
+       "episodeTitle": "Tonton", 
        "episodeJudul": "Doraemon Movie 42: Nobita to Sora no Utopia",
 "description": "Nobita to Sora no Utopia bercerita Doraemon, Nobita, dan teman-temannya pergi mencari Utopia, sebuah negeri sempurna di langit tempat semua orang hidup bahagia, menggunakan pesawat yang memiliki fungsi time warp.",
-       "episodeUrl": "",
+       "episodeUrl": "https://acefile.co/f/100874237",
 
                     
        }

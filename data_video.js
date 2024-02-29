@@ -645,7 +645,7 @@
 "episodes": [
         {
        "episodeTitle": "Episode 6 (Proses Upload)", 
-       "episodeJudul": "Arcane: League of Legends",
+       "episodeJudul": "Arcane: League of Legends (EP 6)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
        "episodeUrl": "",
 
@@ -653,31 +653,31 @@
        },
 {
        "episodeTitle": "Episode 5 (Proses Upload)", 
-       "episodeJudul": "Arcane: League of Legends",
+       "episodeJudul": "Arcane: League of Legends (EP 5)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
        "episodeUrl": "",
        },
 {
        "episodeTitle": "Episode 4 (Proses Upload)", 
-       "episodeJudul": "Arcane: League of Legends",
+       "episodeJudul": "Arcane: League of Legends (EP 4)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
        "episodeUrl": "",
        },
 {
         "episodeTitle": "Episode 3 (Proses Upload)",
-        "episodeJudul": "Arcane: League of Legends",
+        "episodeJudul": "Arcane: League of Legends (EP 3)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
         "episodeUrl": "",
 },
 {
         "episodeTitle": "Episode 2 (Proses Upload)",
-        "episodeJudul": "Arcane: League of Legends",
+        "episodeJudul": "Arcane: League of Legends (EP 2)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
         "episodeUrl": "",
 },
 {
         "episodeTitle": "Episode 1 (Proses Upload)",
-        "episodeJudul": "Arcane: League of Legends",
+        "episodeJudul": "Arcane: League of Legends (EP 1)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
         "episodeUrl": "",
 },

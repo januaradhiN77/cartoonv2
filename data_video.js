@@ -631,7 +631,29 @@
         ]
                 
             },
+"arcaneleagueoflegends": {
+                "title": "Arcane: League of Legends",
+                "terjemah": "Episode 1",
+                "rating": "9.0",
+                "studio": "Riot Games",
+                "rilis": "6 November 2021",
+                "gendre1": "Action",
+                "gendre2": "Fantasy",
+                "gendre3": "Adventure",
+                "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+                "bgimg": "https://m.media-amazon.com/images/M/MV5BM2MyOWYwYjAtNWNiYS00NWI4LTkwNjYtYzU1NGEyYzMwYzliXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
+"episodes": [
+        {
+       "episodeTitle": "Tonton (Proses Upload)", 
+       "episodeJudul": "Arcane: League of Legends",
+"description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
+       "episodeUrl": "",
 
+                    
+       }
+        ]
+                
+            },
 
 
 

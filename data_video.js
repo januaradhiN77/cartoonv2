@@ -644,42 +644,42 @@
                 "bgimg": "https://m.media-amazon.com/images/M/MV5BM2MyOWYwYjAtNWNiYS00NWI4LTkwNjYtYzU1NGEyYzMwYzliXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_.jpg",
 "episodes": [
         {
-       "episodeTitle": "Episode 6 (Proses Upload)", 
+       "episodeTitle": "Episode 6", 
        "episodeJudul": "Arcane: League of Legends (EP 6)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1kZWLjJzoMIsiOU6UB-oAsMu5NNjiLlil/preview",
 
                     
        },
 {
-       "episodeTitle": "Episode 5 (Proses Upload)", 
+       "episodeTitle": "Episode 5", 
        "episodeJudul": "Arcane: League of Legends (EP 5)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1ksyREyfsRkHoHBhFCuRwZNm3YeFEeBx0/preview",
        },
 {
-       "episodeTitle": "Episode 4 (Proses Upload)", 
+       "episodeTitle": "Episode 4", 
        "episodeJudul": "Arcane: League of Legends (EP 4)",
 "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
-       "episodeUrl": "",
+       "episodeUrl": "https://drive.google.com/file/d/1kTT6OLfvKTUFcaCv8jCpcQoq4voVcEPo/preview",
        },
 {
-        "episodeTitle": "Episode 3 (Proses Upload)",
+        "episodeTitle": "Episode 3",
         "episodeJudul": "Arcane: League of Legends (EP 3)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
-        "episodeUrl": "",
+        "episodeUrl": "https://drive.google.com/file/d/1kqYYNVL6YnjRwbUJzW1zodxpxY7cLLnu/preview",
 },
 {
-        "episodeTitle": "Episode 2 (Proses Upload)",
+        "episodeTitle": "Episode 2",
         "episodeJudul": "Arcane: League of Legends (EP 2)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
-        "episodeUrl": "",
+        "episodeUrl": "https://drive.google.com/file/d/1kQhH59HHcbPBrsr91z2RUisqFoshMQ-l/preview",
 },
 {
-        "episodeTitle": "Episode 1 (Proses Upload)",
+        "episodeTitle": "Episode 1",
         "episodeJudul": "Arcane: League of Legends (EP 1)",
         "description": "Vi dan Powder (Jinx) menjadi yatim piatu sejak kota Zaun diserang. Kota ini disebut sebagai “Kota Bawah Tanah”. Kota Zaun terlihat sebagai kota miskin. Rakyatnya sering dituduh sebagai pencuri.<br><br> Sebaliknya, kota Piltover terlihat sebagai kota maju. Dua kota ini sering mengalami gencatan senjata. Vi dan Powder sering mencuri di kota Piltover. Mereka dibantu oleh dua orang temannya, yaitu Deckard dan Mylo.",
-        "episodeUrl": "",
+        "episodeUrl": "https://drive.google.com/file/d/1kQYbEzB_c8pA5UB2Sbr-UulkmphuZb3h/preview",
 },
         ]
                 
